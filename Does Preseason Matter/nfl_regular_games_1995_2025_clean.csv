@@ -9,6 +9,7 @@ game_id,season,week,date,game_type,neutral_site,home_team,home_franchise_id,home
 1995_1995-09-03_LAC_LV,1995,NA,1995-09-03,Regular Season,FALSE,LV,RAIDERS,Oakland Raiders,LAC,CHARGERS,San Diego Chargers,17,7,W,LV,10,24,FiveThirtyEight
 1995_1995-09-03_KC_SEA,1995,NA,1995-09-03,Regular Season,FALSE,SEA,SEAHAWKS,Seattle Seahawks,KC,CHIEFS,Kansas City Chiefs,10,34,L,KC,24,44,FiveThirtyEight
 1995_1995-09-03_MIN_CHI,1995,NA,1995-09-03,Regular Season,FALSE,CHI,BEARS,Chicago Bears,MIN,VIKINGS,Minnesota Vikings,31,14,W,CHI,17,45,FiveThirtyEight
+1995_1995-09-03_ARI_WAS,1995,NA,1995-09-03,Regular Season,FALSE,WAS,WASHINGTON,Washington Redskins,ARI,CARDINALS,Arizona Cardinals,27,7,W,WAS,20,34,FiveThirtyEight
 1995_1995-09-03_TEN_JAX,1995,NA,1995-09-03,Regular Season,FALSE,JAX,JAGUARS,Jacksonville Jaguars,TEN,TITANS,Houston Oilers,3,10,L,TEN,7,13,FiveThirtyEight
 1995_1995-09-03_LA_GB,1995,NA,1995-09-03,Regular Season,FALSE,GB,PACKERS,Green Bay Packers,LA,RAMS,St. Louis Rams,14,17,L,LA,3,31,FiveThirtyEight
 1995_1995-09-03_NYJ_MIA,1995,NA,1995-09-03,Regular Season,FALSE,MIA,DOLPHINS,Miami Dolphins,NYJ,JETS,New York Jets,52,14,W,MIA,38,66,FiveThirtyEight
