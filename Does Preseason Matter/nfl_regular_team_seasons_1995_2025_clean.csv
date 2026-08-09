@@ -1,0 +1,982 @@
+season,team_id,franchise_id,historical_team_name,city,nickname,active,games,wins,losses,ties,points_for,points_against,win_pct,point_diff,game_type
+1995,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE,16,4,12,0,275,422,0.25,-147,REG
+1995,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE,16,9,7,0,362,349,0.5625,13,REG
+1995,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE,16,10,6,0,350,335,0.625,15,REG
+1995,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE,16,7,9,0,289,325,0.4375,-36,REG
+1995,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE,16,9,7,0,392,360,0.5625,32,REG
+1995,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE,16,7,9,0,349,374,0.4375,-25,REG
+1995,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE,16,5,11,0,289,356,0.3125,-67,REG
+1995,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE,16,12,4,0,435,291,0.75,144,REG
+1995,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE,16,8,8,0,388,345,0.5,43,REG
+1995,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE,16,10,6,0,436,336,0.625,100,REG
+1995,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE,16,11,5,0,404,314,0.6875,90,REG
+1995,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE,16,9,7,0,331,316,0.5625,15,REG
+1995,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE,16,4,12,0,275,404,0.25,-129,REG
+1995,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE,16,13,3,0,358,241,0.8125,117,REG
+1995,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE,16,7,9,0,309,418,0.4375,-109,REG
+1995,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE,16,9,7,0,321,323,0.5625,-2,REG
+1995,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE,16,8,8,0,348,332,0.5,16,REG
+1995,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE,16,9,7,0,398,332,0.5625,66,REG
+1995,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE,16,8,8,0,412,385,0.5,27,REG
+1995,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE,16,6,10,0,294,377,0.375,-83,REG
+1995,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE,16,7,9,0,319,348,0.4375,-29,REG
+1995,NYG,GIANTS,New York Giants,New York,Giants,TRUE,16,5,11,0,290,340,0.3125,-50,REG
+1995,NYJ,JETS,New York Jets,New York,Jets,TRUE,16,3,13,0,233,384,0.1875,-151,REG
+1995,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE,16,10,6,0,318,338,0.625,-20,REG
+1995,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE,16,11,5,0,407,327,0.6875,80,REG
+1995,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE,16,8,8,0,363,366,0.5,-3,REG
+1995,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE,16,11,5,0,457,258,0.6875,199,REG
+1995,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE,16,7,9,0,238,335,0.4375,-97,REG
+1995,TEN,TITANS,Houston Oilers,Houston,Oilers,TRUE,16,7,9,0,348,324,0.4375,24,REG
+1995,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE,16,6,10,0,326,359,0.375,-33,REG
+1996,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE,16,7,9,0,300,397,0.4375,-97,REG
+1996,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE,16,3,13,0,309,461,0.1875,-152,REG
+1996,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE,16,4,12,0,371,441,0.25,-70,REG
+1996,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE,16,10,6,0,319,266,0.625,53,REG
+1996,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE,16,12,4,0,367,218,0.75,149,REG
+1996,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE,16,7,9,0,283,305,0.4375,-22,REG
+1996,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE,16,8,8,0,372,369,0.5,3,REG
+1996,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE,16,10,6,0,286,250,0.625,36,REG
+1996,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE,16,13,3,0,391,275,0.8125,116,REG
+1996,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE,16,5,11,0,302,368,0.3125,-66,REG
+1996,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE,16,13,3,0,456,210,0.8125,246,REG
+1996,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE,16,9,7,0,317,334,0.5625,-17,REG
+1996,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE,16,9,7,0,325,335,0.5625,-10,REG
+1996,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE,16,9,7,0,297,300,0.5625,-3,REG
+1996,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE,16,6,10,0,303,409,0.375,-106,REG
+1996,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE,16,8,8,0,310,376,0.5,-66,REG
+1996,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE,16,7,9,0,340,293,0.4375,47,REG
+1996,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE,16,8,8,0,339,325,0.5,14,REG
+1996,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE,16,9,7,0,298,315,0.5625,-17,REG
+1996,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE,16,11,5,0,418,313,0.6875,105,REG
+1996,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE,16,3,13,0,229,339,0.1875,-110,REG
+1996,NYG,GIANTS,New York Giants,New York,Giants,TRUE,16,6,10,0,242,297,0.375,-55,REG
+1996,NYJ,JETS,New York Jets,New York,Jets,TRUE,16,1,15,0,279,454,0.0625,-175,REG
+1996,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE,16,10,6,0,363,341,0.625,22,REG
+1996,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE,16,10,6,0,344,257,0.625,87,REG
+1996,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE,16,7,9,0,317,376,0.4375,-59,REG
+1996,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE,16,12,4,0,398,257,0.75,141,REG
+1996,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE,16,6,10,0,221,293,0.375,-72,REG
+1996,TEN,TITANS,Houston Oilers,Houston,Oilers,TRUE,16,8,8,0,345,319,0.5,26,REG
+1996,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE,16,9,7,0,364,312,0.5625,52,REG
+1997,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE,16,4,12,0,283,379,0.25,-96,REG
+1997,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE,16,7,9,0,320,361,0.4375,-41,REG
+1997,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE,16,6,9,1,326,345,0.40625,-19,REG
+1997,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE,16,6,10,0,255,367,0.375,-112,REG
+1997,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE,16,7,9,0,265,314,0.4375,-49,REG
+1997,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE,16,4,12,0,263,421,0.25,-158,REG
+1997,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE,16,7,9,0,355,405,0.4375,-50,REG
+1997,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE,16,6,10,0,304,314,0.375,-10,REG
+1997,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE,16,12,4,0,472,287,0.75,185,REG
+1997,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE,16,9,7,0,379,306,0.5625,73,REG
+1997,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE,16,13,3,0,422,282,0.8125,140,REG
+1997,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE,16,3,13,0,313,401,0.1875,-88,REG
+1997,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE,16,11,5,0,394,318,0.6875,76,REG
+1997,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE,16,13,3,0,375,232,0.8125,143,REG
+1997,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE,16,5,11,0,299,359,0.3125,-60,REG
+1997,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE,16,4,12,0,266,425,0.25,-159,REG
+1997,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE,16,4,12,0,324,419,0.25,-95,REG
+1997,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE,16,9,7,0,339,327,0.5625,12,REG
+1997,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE,16,9,7,0,354,359,0.5625,-5,REG
+1997,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE,16,10,6,0,369,289,0.625,80,REG
+1997,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE,16,6,10,0,237,327,0.375,-90,REG
+1997,NYG,GIANTS,New York Giants,New York,Giants,TRUE,16,10,5,1,307,265,0.65625,42,REG
+1997,NYJ,JETS,New York Jets,New York,Jets,TRUE,16,9,7,0,348,287,0.5625,61,REG
+1997,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE,16,6,9,1,317,372,0.40625,-55,REG
+1997,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE,16,11,5,0,372,307,0.6875,65,REG
+1997,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE,16,8,8,0,365,362,0.5,3,REG
+1997,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE,16,13,3,0,375,265,0.8125,110,REG
+1997,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE,16,10,6,0,299,263,0.625,36,REG
+1997,TEN,TITANS,Tennessee Oilers,Tennessee,Oilers,TRUE,16,8,8,0,333,310,0.5,23,REG
+1997,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE,16,8,7,1,327,289,0.53125,38,REG
+1998,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE,16,9,7,0,325,378,0.5625,-53,REG
+1998,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE,16,14,2,0,442,289,0.875,153,REG
+1998,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE,16,6,10,0,269,335,0.375,-66,REG
+1998,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE,16,10,6,0,400,333,0.625,67,REG
+1998,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE,16,4,12,0,336,413,0.25,-77,REG
+1998,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE,16,4,12,0,276,368,0.25,-92,REG
+1998,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE,16,3,13,0,268,452,0.1875,-184,REG
+1998,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE,16,10,6,0,381,275,0.625,106,REG
+1998,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE,16,14,2,0,501,309,0.875,192,REG
+1998,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE,16,5,11,0,306,378,0.3125,-72,REG
+1998,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE,16,11,5,0,408,319,0.6875,89,REG
+1998,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE,16,3,13,0,310,444,0.1875,-134,REG
+1998,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE,16,11,5,0,392,338,0.6875,54,REG
+1998,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE,16,7,9,0,327,363,0.4375,-36,REG
+1998,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE,16,4,12,0,285,378,0.25,-93,REG
+1998,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE,16,5,11,0,241,342,0.3125,-101,REG
+1998,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE,16,8,8,0,288,356,0.5,-68,REG
+1998,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE,16,10,6,0,321,265,0.625,56,REG
+1998,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE,16,15,1,0,556,296,0.9375,260,REG
+1998,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE,16,9,7,0,337,329,0.5625,8,REG
+1998,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE,16,6,10,0,305,359,0.375,-54,REG
+1998,NYG,GIANTS,New York Giants,New York,Giants,TRUE,16,8,8,0,287,309,0.5,-22,REG
+1998,NYJ,JETS,New York Jets,New York,Jets,TRUE,16,12,4,0,416,266,0.75,150,REG
+1998,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE,16,3,13,0,161,344,0.1875,-183,REG
+1998,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE,16,7,9,0,263,303,0.4375,-40,REG
+1998,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE,16,8,8,0,372,310,0.5,62,REG
+1998,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE,16,12,4,0,479,328,0.75,151,REG
+1998,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE,16,8,8,0,314,295,0.5,19,REG
+1998,TEN,TITANS,Tennessee Oilers,Tennessee,Oilers,TRUE,16,8,8,0,330,320,0.5,10,REG
+1998,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE,16,6,10,0,319,421,0.375,-102,REG
+1999,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE,16,6,10,0,245,382,0.375,-137,REG
+1999,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE,16,5,11,0,285,380,0.3125,-95,REG
+1999,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE,16,8,8,0,324,277,0.5,47,REG
+1999,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE,16,11,5,0,320,229,0.6875,91,REG
+1999,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE,16,8,8,0,421,381,0.5,40,REG
+1999,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE,16,6,10,0,272,341,0.375,-69,REG
+1999,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE,16,4,12,0,283,460,0.25,-177,REG
+1999,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE,16,2,14,0,217,437,0.125,-220,REG
+1999,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE,16,8,8,0,352,276,0.5,76,REG
+1999,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE,16,6,10,0,314,318,0.375,-4,REG
+1999,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE,16,8,8,0,322,323,0.5,-1,REG
+1999,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE,16,8,8,0,357,341,0.5,16,REG
+1999,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE,16,13,3,0,423,333,0.8125,90,REG
+1999,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE,16,14,2,0,396,217,0.875,179,REG
+1999,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE,16,9,7,0,390,322,0.5625,68,REG
+1999,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE,16,13,3,0,526,242,0.8125,284,REG
+1999,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE,16,8,8,0,269,316,0.5,-47,REG
+1999,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE,16,8,8,0,390,329,0.5,61,REG
+1999,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE,16,9,7,0,326,336,0.5625,-10,REG
+1999,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE,16,10,6,0,399,335,0.625,64,REG
+1999,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE,16,8,8,0,299,284,0.5,15,REG
+1999,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE,16,3,13,0,260,434,0.1875,-174,REG
+1999,NYG,GIANTS,New York Giants,New York,Giants,TRUE,16,7,9,0,299,358,0.4375,-59,REG
+1999,NYJ,JETS,New York Jets,New York,Jets,TRUE,16,8,8,0,308,309,0.5,-1,REG
+1999,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE,16,5,11,0,272,357,0.3125,-85,REG
+1999,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE,16,6,10,0,317,320,0.375,-3,REG
+1999,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE,16,9,7,0,338,298,0.5625,40,REG
+1999,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE,16,4,12,0,295,453,0.25,-158,REG
+1999,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE,16,11,5,0,270,235,0.6875,35,REG
+1999,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE,16,13,3,0,392,324,0.8125,68,REG
+1999,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE,16,10,6,0,443,377,0.625,66,REG
+2000,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE,16,3,13,0,210,443,0.1875,-233,REG
+2000,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE,16,4,12,0,252,413,0.25,-161,REG
+2000,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE,16,12,4,0,333,165,0.75,168,REG
+2000,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE,16,8,8,0,315,350,0.5,-35,REG
+2000,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE,16,7,9,0,310,310,0.4375,0,REG
+2000,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE,16,5,11,0,216,355,0.3125,-139,REG
+2000,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE,16,4,12,0,185,359,0.25,-174,REG
+2000,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE,16,3,13,0,161,419,0.1875,-258,REG
+2000,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE,16,5,11,0,294,361,0.3125,-67,REG
+2000,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE,16,11,5,0,485,369,0.6875,116,REG
+2000,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE,16,9,7,0,307,307,0.5625,0,REG
+2000,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE,16,9,7,0,353,323,0.5625,30,REG
+2000,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE,16,10,6,0,429,326,0.625,103,REG
+2000,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE,16,7,9,0,367,327,0.4375,40,REG
+2000,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE,16,7,9,0,355,354,0.4375,1,REG
+2000,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE,16,10,6,0,540,471,0.625,69,REG
+2000,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE,16,1,15,0,269,440,0.0625,-171,REG
+2000,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE,16,12,4,0,479,299,0.75,180,REG
+2000,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE,16,11,5,0,323,226,0.6875,97,REG
+2000,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE,16,11,5,0,397,371,0.6875,26,REG
+2000,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE,16,5,11,0,276,338,0.3125,-62,REG
+2000,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE,16,10,6,0,354,305,0.625,49,REG
+2000,NYG,GIANTS,New York Giants,New York,Giants,TRUE,16,12,4,0,328,246,0.75,82,REG
+2000,NYJ,JETS,New York Jets,New York,Jets,TRUE,16,9,7,0,321,321,0.5625,0,REG
+2000,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE,16,11,5,0,351,245,0.6875,106,REG
+2000,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE,16,9,7,0,321,255,0.5625,66,REG
+2000,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE,16,6,10,0,320,405,0.375,-85,REG
+2000,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE,16,6,10,0,388,422,0.375,-34,REG
+2000,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE,16,10,6,0,388,269,0.625,119,REG
+2000,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE,16,13,3,0,346,191,0.8125,155,REG
+2000,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE,16,8,8,0,281,269,0.5,12,REG
+2001,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE,16,7,9,0,295,343,0.4375,-48,REG
+2001,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE,16,7,9,0,291,377,0.4375,-86,REG
+2001,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE,16,10,6,0,303,265,0.625,38,REG
+2001,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE,16,3,13,0,265,420,0.1875,-155,REG
+2001,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE,16,1,15,0,253,410,0.0625,-157,REG
+2001,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE,16,13,3,0,338,203,0.8125,135,REG
+2001,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE,16,6,10,0,226,309,0.375,-83,REG
+2001,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE,16,7,9,0,285,319,0.4375,-34,REG
+2001,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE,16,5,11,0,246,338,0.3125,-92,REG
+2001,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE,16,8,8,0,340,339,0.5,1,REG
+2001,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE,16,2,14,0,270,424,0.125,-154,REG
+2001,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE,16,12,4,0,390,266,0.75,124,REG
+2001,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE,16,6,10,0,413,486,0.375,-73,REG
+2001,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE,16,6,10,0,294,286,0.375,8,REG
+2001,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE,16,6,10,0,320,344,0.375,-24,REG
+2001,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE,16,14,2,0,503,273,0.875,230,REG
+2001,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE,16,5,11,0,332,321,0.3125,11,REG
+2001,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE,16,10,6,0,399,327,0.625,72,REG
+2001,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE,16,11,5,0,344,290,0.6875,54,REG
+2001,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE,16,5,11,0,290,390,0.3125,-100,REG
+2001,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE,16,11,5,0,371,272,0.6875,99,REG
+2001,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE,16,7,9,0,333,409,0.4375,-76,REG
+2001,NYG,GIANTS,New York Giants,New York,Giants,TRUE,16,7,9,0,294,321,0.4375,-27,REG
+2001,NYJ,JETS,New York Jets,New York,Jets,TRUE,16,10,6,0,308,295,0.625,13,REG
+2001,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE,16,11,5,0,343,208,0.6875,135,REG
+2001,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE,16,13,3,0,352,212,0.8125,140,REG
+2001,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE,16,9,7,0,301,324,0.5625,-23,REG
+2001,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE,16,12,4,0,409,282,0.75,127,REG
+2001,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE,16,9,7,0,324,280,0.5625,44,REG
+2001,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE,16,7,9,0,336,388,0.4375,-52,REG
+2001,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE,16,8,8,0,256,303,0.5,-47,REG
+2002,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE,16,5,11,0,262,417,0.3125,-155,REG
+2002,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE,16,9,6,1,402,314,0.59375,88,REG
+2002,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE,16,7,9,0,316,354,0.4375,-38,REG
+2002,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE,16,8,8,0,379,397,0.5,-18,REG
+2002,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE,16,7,9,0,258,302,0.4375,-44,REG
+2002,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE,16,4,12,0,281,379,0.25,-98,REG
+2002,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE,16,2,14,0,279,456,0.125,-177,REG
+2002,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE,16,9,7,0,344,320,0.5625,24,REG
+2002,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE,16,5,11,0,217,329,0.3125,-112,REG
+2002,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE,16,9,7,0,392,344,0.5625,48,REG
+2002,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE,16,3,13,0,306,451,0.1875,-145,REG
+2002,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE,16,12,4,0,398,328,0.75,70,REG
+2002,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE,16,4,12,0,213,356,0.25,-143,REG
+2002,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE,16,10,6,0,349,313,0.625,36,REG
+2002,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE,16,6,10,0,328,315,0.375,13,REG
+2002,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE,16,8,8,0,467,399,0.5,68,REG
+2002,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE,16,7,9,0,316,369,0.4375,-53,REG
+2002,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE,16,8,8,0,333,367,0.5,-34,REG
+2002,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE,16,11,5,0,450,304,0.6875,146,REG
+2002,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE,16,9,7,0,378,301,0.5625,77,REG
+2002,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE,16,6,10,0,390,442,0.375,-52,REG
+2002,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE,16,9,7,0,381,346,0.5625,35,REG
+2002,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE,16,9,7,0,432,388,0.5625,44,REG
+2002,NYG,GIANTS,New York Giants,New York,Giants,TRUE,16,10,6,0,320,279,0.625,41,REG
+2002,NYJ,JETS,New York Jets,New York,Jets,TRUE,16,9,7,0,359,336,0.5625,23,REG
+2002,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE,16,12,4,0,415,241,0.75,174,REG
+2002,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE,16,10,5,1,390,345,0.65625,45,REG
+2002,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE,16,7,9,0,355,369,0.4375,-14,REG
+2002,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE,16,10,6,0,367,351,0.625,16,REG
+2002,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE,16,12,4,0,346,196,0.75,150,REG
+2002,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE,16,11,5,0,367,324,0.6875,43,REG
+2002,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE,16,7,9,0,307,365,0.4375,-58,REG
+2003,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE,16,4,12,0,225,452,0.25,-227,REG
+2003,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE,16,5,11,0,299,422,0.3125,-123,REG
+2003,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE,16,10,6,0,391,281,0.625,110,REG
+2003,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE,16,6,10,0,243,279,0.375,-36,REG
+2003,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE,16,11,5,0,325,304,0.6875,21,REG
+2003,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE,16,7,9,0,283,346,0.4375,-63,REG
+2003,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE,16,8,8,0,346,384,0.5,-38,REG
+2003,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE,16,5,11,0,254,322,0.3125,-68,REG
+2003,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE,16,10,6,0,289,260,0.625,29,REG
+2003,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE,16,10,6,0,381,301,0.625,80,REG
+2003,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE,16,5,11,0,270,379,0.3125,-109,REG
+2003,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE,16,10,6,0,442,307,0.625,135,REG
+2003,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE,16,5,11,0,255,380,0.3125,-125,REG
+2003,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE,16,12,4,0,447,336,0.75,111,REG
+2003,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE,16,5,11,0,276,331,0.3125,-55,REG
+2003,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE,16,13,3,0,484,332,0.8125,152,REG
+2003,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE,16,12,4,0,447,328,0.75,119,REG
+2003,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE,16,4,12,0,313,441,0.25,-128,REG
+2003,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE,16,4,12,0,270,379,0.25,-109,REG
+2003,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE,16,10,6,0,311,261,0.625,50,REG
+2003,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE,16,9,7,0,416,353,0.5625,63,REG
+2003,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE,16,14,2,0,348,238,0.875,110,REG
+2003,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE,16,8,8,0,340,326,0.5,14,REG
+2003,NYG,GIANTS,New York Giants,New York,Giants,TRUE,16,4,12,0,243,387,0.25,-144,REG
+2003,NYJ,JETS,New York Jets,New York,Jets,TRUE,16,6,10,0,283,299,0.375,-16,REG
+2003,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE,16,12,4,0,374,287,0.75,87,REG
+2003,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE,16,6,10,0,300,327,0.375,-27,REG
+2003,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE,16,10,6,0,404,327,0.625,77,REG
+2003,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE,16,7,9,0,384,337,0.4375,47,REG
+2003,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE,16,7,9,0,301,264,0.4375,37,REG
+2003,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE,16,12,4,0,435,324,0.75,111,REG
+2003,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE,16,5,11,0,287,372,0.3125,-85,REG
+2004,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE,16,6,10,0,284,322,0.375,-38,REG
+2004,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE,16,11,5,0,340,337,0.6875,3,REG
+2004,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE,16,9,7,0,317,268,0.5625,49,REG
+2004,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE,16,9,7,0,395,284,0.5625,111,REG
+2004,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE,16,7,9,0,355,339,0.4375,16,REG
+2004,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE,16,5,11,0,231,331,0.3125,-100,REG
+2004,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE,16,8,8,0,374,372,0.5,2,REG
+2004,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE,16,4,12,0,276,390,0.25,-114,REG
+2004,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE,16,6,10,0,293,405,0.375,-112,REG
+2004,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE,16,10,6,0,381,304,0.625,77,REG
+2004,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE,16,6,10,0,296,350,0.375,-54,REG
+2004,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE,16,10,6,0,424,380,0.625,44,REG
+2004,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE,16,7,9,0,309,339,0.4375,-30,REG
+2004,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE,16,12,4,0,522,351,0.75,171,REG
+2004,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE,16,9,7,0,261,280,0.5625,-19,REG
+2004,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE,16,7,9,0,483,435,0.4375,48,REG
+2004,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE,16,8,8,0,319,392,0.5,-73,REG
+2004,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE,16,12,4,0,446,313,0.75,133,REG
+2004,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE,16,5,11,0,320,442,0.3125,-122,REG
+2004,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE,16,4,12,0,275,354,0.25,-79,REG
+2004,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE,16,8,8,0,405,395,0.5,10,REG
+2004,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE,16,14,2,0,437,260,0.875,177,REG
+2004,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE,16,8,8,0,348,405,0.5,-57,REG
+2004,NYG,GIANTS,New York Giants,New York,Giants,TRUE,16,6,10,0,303,347,0.375,-44,REG
+2004,NYJ,JETS,New York Jets,New York,Jets,TRUE,16,10,6,0,333,261,0.625,72,REG
+2004,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE,16,13,3,0,386,260,0.8125,126,REG
+2004,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE,16,15,1,0,372,251,0.9375,121,REG
+2004,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE,16,9,7,0,371,373,0.5625,-2,REG
+2004,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE,16,2,14,0,259,452,0.125,-193,REG
+2004,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE,16,5,11,0,301,304,0.3125,-3,REG
+2004,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE,16,5,11,0,344,439,0.3125,-95,REG
+2004,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE,16,6,10,0,240,265,0.375,-25,REG
+2005,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE,16,5,11,0,311,387,0.3125,-76,REG
+2005,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE,16,8,8,0,351,341,0.5,10,REG
+2005,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE,16,6,10,0,265,299,0.375,-34,REG
+2005,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE,16,5,11,0,271,367,0.3125,-96,REG
+2005,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE,16,11,5,0,391,259,0.6875,132,REG
+2005,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE,16,11,5,0,260,202,0.6875,58,REG
+2005,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE,16,11,5,0,421,350,0.6875,71,REG
+2005,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE,16,6,10,0,232,301,0.375,-69,REG
+2005,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE,16,9,7,0,325,308,0.5625,17,REG
+2005,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE,16,13,3,0,395,258,0.8125,137,REG
+2005,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE,16,5,11,0,254,345,0.3125,-91,REG
+2005,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE,16,4,12,0,298,344,0.25,-46,REG
+2005,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE,16,2,14,0,260,431,0.125,-171,REG
+2005,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE,16,14,2,0,439,247,0.875,192,REG
+2005,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE,16,12,4,0,361,269,0.75,92,REG
+2005,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE,16,10,6,0,403,325,0.625,78,REG
+2005,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE,16,6,10,0,363,429,0.375,-66,REG
+2005,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE,16,9,7,0,418,312,0.5625,106,REG
+2005,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE,16,4,12,0,290,383,0.25,-93,REG
+2005,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE,16,9,7,0,318,317,0.5625,1,REG
+2005,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE,16,9,7,0,306,344,0.5625,-38,REG
+2005,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE,16,10,6,0,379,338,0.625,41,REG
+2005,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE,16,3,13,0,235,398,0.1875,-163,REG
+2005,NYG,GIANTS,New York Giants,New York,Giants,TRUE,16,11,5,0,422,314,0.6875,108,REG
+2005,NYJ,JETS,New York Jets,New York,Jets,TRUE,16,4,12,0,240,355,0.25,-115,REG
+2005,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE,16,6,10,0,310,388,0.375,-78,REG
+2005,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE,16,11,5,0,389,258,0.6875,131,REG
+2005,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE,16,13,3,0,452,271,0.8125,181,REG
+2005,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE,16,4,12,0,239,428,0.25,-189,REG
+2005,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE,16,11,5,0,300,274,0.6875,26,REG
+2005,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE,16,4,12,0,299,421,0.25,-122,REG
+2005,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE,16,10,6,0,359,293,0.625,66,REG
+2006,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE,16,5,11,0,314,389,0.3125,-75,REG
+2006,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE,16,7,9,0,292,328,0.4375,-36,REG
+2006,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE,16,13,3,0,353,201,0.8125,152,REG
+2006,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE,16,7,9,0,300,311,0.4375,-11,REG
+2006,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE,16,8,8,0,270,305,0.5,-35,REG
+2006,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE,16,13,3,0,427,255,0.8125,172,REG
+2006,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE,16,8,8,0,373,331,0.5,42,REG
+2006,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE,16,4,12,0,238,356,0.25,-118,REG
+2006,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE,16,9,7,0,425,350,0.5625,75,REG
+2006,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE,16,9,7,0,319,305,0.5625,14,REG
+2006,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE,16,3,13,0,305,398,0.1875,-93,REG
+2006,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE,16,8,8,0,301,366,0.5,-65,REG
+2006,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE,16,6,10,0,267,366,0.375,-99,REG
+2006,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE,16,12,4,0,427,360,0.75,67,REG
+2006,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE,16,8,8,0,371,274,0.5,97,REG
+2006,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE,16,9,7,0,331,315,0.5625,16,REG
+2006,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE,16,8,8,0,367,381,0.5,-14,REG
+2006,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE,16,14,2,0,492,303,0.875,189,REG
+2006,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE,16,2,14,0,168,332,0.125,-164,REG
+2006,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE,16,6,10,0,260,283,0.375,-23,REG
+2006,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE,16,6,10,0,282,327,0.375,-45,REG
+2006,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE,16,12,4,0,385,237,0.75,148,REG
+2006,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE,16,10,6,0,413,322,0.625,91,REG
+2006,NYG,GIANTS,New York Giants,New York,Giants,TRUE,16,8,8,0,355,362,0.5,-7,REG
+2006,NYJ,JETS,New York Jets,New York,Jets,TRUE,16,10,6,0,316,295,0.625,21,REG
+2006,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE,16,10,6,0,398,328,0.625,70,REG
+2006,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE,16,8,8,0,353,315,0.5,38,REG
+2006,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE,16,9,7,0,335,341,0.5625,-6,REG
+2006,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE,16,7,9,0,298,412,0.4375,-114,REG
+2006,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE,16,4,12,0,211,353,0.25,-142,REG
+2006,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE,16,8,8,0,324,400,0.5,-76,REG
+2006,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE,16,5,11,0,307,376,0.3125,-69,REG
+2007,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE,16,8,8,0,404,399,0.5,5,REG
+2007,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE,16,4,12,0,259,414,0.25,-155,REG
+2007,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE,16,5,11,0,275,384,0.3125,-109,REG
+2007,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE,16,7,9,0,252,354,0.4375,-102,REG
+2007,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE,16,7,9,0,267,347,0.4375,-80,REG
+2007,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE,16,7,9,0,334,348,0.4375,-14,REG
+2007,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE,16,7,9,0,380,385,0.4375,-5,REG
+2007,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE,16,10,6,0,402,382,0.625,20,REG
+2007,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE,16,13,3,0,455,325,0.8125,130,REG
+2007,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE,16,7,9,0,320,409,0.4375,-89,REG
+2007,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE,16,7,9,0,346,444,0.4375,-98,REG
+2007,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE,16,13,3,0,435,291,0.8125,144,REG
+2007,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE,16,8,8,0,379,384,0.5,-5,REG
+2007,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE,16,13,3,0,450,262,0.8125,188,REG
+2007,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE,16,11,5,0,411,304,0.6875,107,REG
+2007,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE,16,4,12,0,226,335,0.25,-109,REG
+2007,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE,16,3,13,0,263,438,0.1875,-175,REG
+2007,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE,16,11,5,0,412,284,0.6875,128,REG
+2007,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE,16,4,12,0,283,398,0.25,-115,REG
+2007,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE,16,1,15,0,267,437,0.0625,-170,REG
+2007,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE,16,8,8,0,365,311,0.5,54,REG
+2007,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE,16,16,0,0,589,274,1,315,REG
+2007,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE,16,7,9,0,379,388,0.4375,-9,REG
+2007,NYG,GIANTS,New York Giants,New York,Giants,TRUE,16,10,6,0,373,351,0.625,22,REG
+2007,NYJ,JETS,New York Jets,New York,Jets,TRUE,16,4,12,0,268,355,0.25,-87,REG
+2007,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE,16,8,8,0,336,300,0.5,36,REG
+2007,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE,16,10,6,0,393,269,0.625,124,REG
+2007,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE,16,10,6,0,393,291,0.625,102,REG
+2007,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE,16,5,11,0,219,364,0.3125,-145,REG
+2007,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE,16,9,7,0,334,270,0.5625,64,REG
+2007,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE,16,10,6,0,301,297,0.625,4,REG
+2007,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE,16,9,7,0,334,310,0.5625,24,REG
+2008,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE,16,9,7,0,427,426,0.5625,1,REG
+2008,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE,16,11,5,0,391,325,0.6875,66,REG
+2008,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE,16,11,5,0,385,244,0.6875,141,REG
+2008,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE,16,7,9,0,336,342,0.4375,-6,REG
+2008,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE,16,12,4,0,414,329,0.75,85,REG
+2008,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE,16,9,7,0,375,350,0.5625,25,REG
+2008,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE,16,4,11,1,204,364,0.28125,-160,REG
+2008,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE,16,4,12,0,232,350,0.25,-118,REG
+2008,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE,16,9,7,0,362,365,0.5625,-3,REG
+2008,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE,16,8,8,0,370,448,0.5,-78,REG
+2008,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE,16,0,16,0,268,517,0,-249,REG
+2008,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE,16,6,10,0,419,380,0.375,39,REG
+2008,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE,16,8,8,0,366,394,0.5,-28,REG
+2008,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE,16,12,4,0,377,298,0.75,79,REG
+2008,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE,16,5,11,0,302,367,0.3125,-65,REG
+2008,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE,16,2,14,0,291,440,0.125,-149,REG
+2008,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE,16,2,14,0,232,465,0.125,-233,REG
+2008,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE,16,8,8,0,439,347,0.5,92,REG
+2008,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE,16,5,11,0,263,388,0.3125,-125,REG
+2008,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE,16,11,5,0,345,317,0.6875,28,REG
+2008,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE,16,10,6,0,379,333,0.625,46,REG
+2008,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE,16,11,5,0,410,309,0.6875,101,REG
+2008,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE,16,8,8,0,463,393,0.5,70,REG
+2008,NYG,GIANTS,New York Giants,New York,Giants,TRUE,16,12,4,0,427,294,0.75,133,REG
+2008,NYJ,JETS,New York Jets,New York,Jets,TRUE,16,9,7,0,405,356,0.5625,49,REG
+2008,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE,16,9,6,1,416,289,0.59375,127,REG
+2008,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE,16,12,4,0,347,223,0.75,124,REG
+2008,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE,16,4,12,0,294,392,0.25,-98,REG
+2008,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE,16,7,9,0,339,381,0.4375,-42,REG
+2008,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE,16,9,7,0,361,323,0.5625,38,REG
+2008,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE,16,13,3,0,375,234,0.8125,141,REG
+2008,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE,16,8,8,0,265,296,0.5,-31,REG
+2009,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE,16,10,6,0,375,325,0.625,50,REG
+2009,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE,16,9,7,0,363,325,0.5625,38,REG
+2009,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE,16,9,7,0,391,261,0.5625,130,REG
+2009,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE,16,6,10,0,258,326,0.375,-68,REG
+2009,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE,16,8,8,0,315,308,0.5,7,REG
+2009,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE,16,7,9,0,327,375,0.4375,-48,REG
+2009,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE,16,10,6,0,305,291,0.625,14,REG
+2009,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE,16,5,11,0,245,375,0.3125,-130,REG
+2009,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE,16,11,5,0,361,250,0.6875,111,REG
+2009,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE,16,8,8,0,326,324,0.5,2,REG
+2009,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE,16,2,14,0,262,494,0.125,-232,REG
+2009,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE,16,11,5,0,461,297,0.6875,164,REG
+2009,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE,16,9,7,0,388,333,0.5625,55,REG
+2009,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE,16,14,2,0,416,307,0.875,109,REG
+2009,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE,16,7,9,0,290,380,0.4375,-90,REG
+2009,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE,16,4,12,0,294,424,0.25,-130,REG
+2009,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE,16,1,15,0,175,436,0.0625,-261,REG
+2009,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE,16,13,3,0,454,320,0.8125,134,REG
+2009,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE,16,5,11,0,197,379,0.3125,-182,REG
+2009,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE,16,7,9,0,360,390,0.4375,-30,REG
+2009,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE,16,12,4,0,470,312,0.75,158,REG
+2009,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE,16,10,6,0,427,285,0.625,142,REG
+2009,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE,16,13,3,0,510,341,0.8125,169,REG
+2009,NYG,GIANTS,New York Giants,New York,Giants,TRUE,16,8,8,0,402,427,0.5,-25,REG
+2009,NYJ,JETS,New York Jets,New York,Jets,TRUE,16,9,7,0,348,236,0.5625,112,REG
+2009,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE,16,11,5,0,429,337,0.6875,92,REG
+2009,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE,16,9,7,0,368,324,0.5625,44,REG
+2009,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE,16,5,11,0,280,390,0.3125,-110,REG
+2009,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE,16,8,8,0,330,281,0.5,49,REG
+2009,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE,16,3,13,0,244,400,0.1875,-156,REG
+2009,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE,16,8,8,0,354,402,0.5,-48,REG
+2009,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE,16,4,12,0,266,336,0.25,-70,REG
+2010,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE,16,5,11,0,289,434,0.3125,-145,REG
+2010,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE,16,13,3,0,414,288,0.8125,126,REG
+2010,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE,16,12,4,0,357,270,0.75,87,REG
+2010,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE,16,4,12,0,283,425,0.25,-142,REG
+2010,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE,16,2,14,0,196,408,0.125,-212,REG
+2010,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE,16,11,5,0,334,286,0.6875,48,REG
+2010,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE,16,4,12,0,322,395,0.25,-73,REG
+2010,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE,16,5,11,0,271,332,0.3125,-61,REG
+2010,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE,16,6,10,0,394,436,0.375,-42,REG
+2010,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE,16,4,12,0,344,471,0.25,-127,REG
+2010,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE,16,6,10,0,362,369,0.375,-7,REG
+2010,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE,16,10,6,0,388,240,0.625,148,REG
+2010,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE,16,6,10,0,390,427,0.375,-37,REG
+2010,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE,16,10,6,0,435,388,0.625,47,REG
+2010,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE,16,8,8,0,353,419,0.5,-66,REG
+2010,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE,16,10,6,0,366,326,0.625,40,REG
+2010,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE,16,7,9,0,289,328,0.4375,-39,REG
+2010,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE,16,9,7,0,441,322,0.5625,119,REG
+2010,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE,16,8,8,0,410,371,0.5,39,REG
+2010,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE,16,7,9,0,273,333,0.4375,-60,REG
+2010,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE,16,6,10,0,281,348,0.375,-67,REG
+2010,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE,16,14,2,0,518,313,0.875,205,REG
+2010,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE,16,11,5,0,384,307,0.6875,77,REG
+2010,NYG,GIANTS,New York Giants,New York,Giants,TRUE,16,10,6,0,394,347,0.625,47,REG
+2010,NYJ,JETS,New York Jets,New York,Jets,TRUE,16,11,5,0,367,304,0.6875,63,REG
+2010,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE,16,10,6,0,439,377,0.625,62,REG
+2010,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE,16,12,4,0,375,232,0.75,143,REG
+2010,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE,16,7,9,0,310,407,0.4375,-97,REG
+2010,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE,16,6,10,0,305,346,0.375,-41,REG
+2010,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE,16,10,6,0,341,318,0.625,23,REG
+2010,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE,16,6,10,0,356,339,0.375,17,REG
+2010,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE,16,6,10,0,302,377,0.375,-75,REG
+2011,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE,16,8,8,0,312,348,0.5,-36,REG
+2011,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE,16,10,6,0,402,350,0.625,52,REG
+2011,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE,16,12,4,0,378,266,0.75,112,REG
+2011,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE,16,6,10,0,372,434,0.375,-62,REG
+2011,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE,16,6,10,0,406,429,0.375,-23,REG
+2011,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE,16,8,8,0,353,341,0.5,12,REG
+2011,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE,16,9,7,0,344,323,0.5625,21,REG
+2011,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE,16,4,12,0,218,307,0.25,-89,REG
+2011,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE,16,8,8,0,369,347,0.5,22,REG
+2011,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE,16,8,8,0,309,390,0.5,-81,REG
+2011,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE,16,10,6,0,474,387,0.625,87,REG
+2011,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE,16,15,1,0,560,359,0.9375,201,REG
+2011,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE,16,10,6,0,381,278,0.625,103,REG
+2011,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE,16,2,14,0,243,430,0.125,-187,REG
+2011,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE,16,5,11,0,243,329,0.3125,-86,REG
+2011,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE,16,7,9,0,212,338,0.4375,-126,REG
+2011,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE,16,2,14,0,193,407,0.125,-214,REG
+2011,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE,16,8,8,0,406,377,0.5,29,REG
+2011,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE,16,8,8,0,359,433,0.5,-74,REG
+2011,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE,16,6,10,0,329,313,0.375,16,REG
+2011,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE,16,3,13,0,340,449,0.1875,-109,REG
+2011,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE,16,13,3,0,513,342,0.8125,171,REG
+2011,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE,16,13,3,0,547,339,0.8125,208,REG
+2011,NYG,GIANTS,New York Giants,New York,Giants,TRUE,16,9,7,0,394,400,0.5625,-6,REG
+2011,NYJ,JETS,New York Jets,New York,Jets,TRUE,16,8,8,0,377,363,0.5,14,REG
+2011,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE,16,8,8,0,396,328,0.5,68,REG
+2011,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE,16,12,4,0,325,227,0.75,98,REG
+2011,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE,16,7,9,0,321,315,0.4375,6,REG
+2011,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE,16,13,3,0,380,229,0.8125,151,REG
+2011,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE,16,4,12,0,287,494,0.25,-207,REG
+2011,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE,16,9,7,0,325,317,0.5625,8,REG
+2011,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE,16,5,11,0,288,367,0.3125,-79,REG
+2012,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE,16,5,11,0,250,357,0.3125,-107,REG
+2012,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE,16,13,3,0,419,299,0.8125,120,REG
+2012,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE,16,10,6,0,398,344,0.625,54,REG
+2012,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE,16,6,10,0,344,435,0.375,-91,REG
+2012,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE,16,7,9,0,357,363,0.4375,-6,REG
+2012,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE,16,10,6,0,375,277,0.625,98,REG
+2012,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE,16,10,6,0,391,320,0.625,71,REG
+2012,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE,16,5,11,0,302,368,0.3125,-66,REG
+2012,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE,16,8,8,0,376,400,0.5,-24,REG
+2012,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE,16,13,3,0,481,289,0.8125,192,REG
+2012,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE,16,4,12,0,372,437,0.25,-65,REG
+2012,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE,16,11,5,0,433,336,0.6875,97,REG
+2012,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE,16,12,4,0,416,331,0.75,85,REG
+2012,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE,16,11,5,0,357,387,0.6875,-30,REG
+2012,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE,16,2,14,0,255,444,0.125,-189,REG
+2012,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE,16,2,14,0,211,425,0.125,-214,REG
+2012,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE,16,7,8,1,299,348,0.46875,-49,REG
+2012,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE,16,7,9,0,350,350,0.4375,0,REG
+2012,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE,16,4,12,0,290,443,0.25,-153,REG
+2012,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE,16,7,9,0,288,317,0.4375,-29,REG
+2012,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE,16,10,6,0,379,348,0.625,31,REG
+2012,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE,16,12,4,0,557,331,0.75,226,REG
+2012,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE,16,7,9,0,461,454,0.4375,7,REG
+2012,NYG,GIANTS,New York Giants,New York,Giants,TRUE,16,9,7,0,429,344,0.5625,85,REG
+2012,NYJ,JETS,New York Jets,New York,Jets,TRUE,16,6,10,0,281,375,0.375,-94,REG
+2012,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE,16,4,12,0,280,444,0.25,-164,REG
+2012,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE,16,8,8,0,336,314,0.5,22,REG
+2012,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE,16,11,5,0,412,245,0.6875,167,REG
+2012,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE,16,11,4,1,397,273,0.71875,124,REG
+2012,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE,16,7,9,0,389,394,0.4375,-5,REG
+2012,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE,16,6,10,0,330,471,0.375,-141,REG
+2012,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE,16,10,6,0,436,388,0.625,48,REG
+2013,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE,16,10,6,0,379,324,0.625,55,REG
+2013,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE,16,4,12,0,353,443,0.25,-90,REG
+2013,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE,16,8,8,0,320,352,0.5,-32,REG
+2013,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE,16,6,10,0,339,388,0.375,-49,REG
+2013,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE,16,12,4,0,366,241,0.75,125,REG
+2013,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE,16,8,8,0,445,478,0.5,-33,REG
+2013,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE,16,11,5,0,430,305,0.6875,125,REG
+2013,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE,16,4,12,0,308,406,0.25,-98,REG
+2013,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE,16,8,8,0,439,432,0.5,7,REG
+2013,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE,16,13,3,0,606,399,0.8125,207,REG
+2013,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE,16,7,9,0,395,376,0.4375,19,REG
+2013,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE,16,8,7,1,417,428,0.53125,-11,REG
+2013,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE,16,2,14,0,276,428,0.125,-152,REG
+2013,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE,16,11,5,0,391,336,0.6875,55,REG
+2013,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE,16,4,12,0,247,449,0.25,-202,REG
+2013,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE,16,11,5,0,430,305,0.6875,125,REG
+2013,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE,16,7,9,0,348,364,0.4375,-16,REG
+2013,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE,16,9,7,0,396,348,0.5625,48,REG
+2013,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE,16,4,12,0,322,453,0.25,-131,REG
+2013,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE,16,8,8,0,317,335,0.5,-18,REG
+2013,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE,16,5,10,1,391,480,0.34375,-89,REG
+2013,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE,16,12,4,0,444,338,0.75,106,REG
+2013,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE,16,11,5,0,414,304,0.6875,110,REG
+2013,NYG,GIANTS,New York Giants,New York,Giants,TRUE,16,7,9,0,294,383,0.4375,-89,REG
+2013,NYJ,JETS,New York Jets,New York,Jets,TRUE,16,8,8,0,290,387,0.5,-97,REG
+2013,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE,16,10,6,0,442,382,0.625,60,REG
+2013,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE,16,8,8,0,379,370,0.5,9,REG
+2013,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE,16,13,3,0,417,231,0.8125,186,REG
+2013,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE,16,12,4,0,406,272,0.75,134,REG
+2013,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE,16,4,12,0,288,389,0.25,-101,REG
+2013,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE,16,7,9,0,362,381,0.4375,-19,REG
+2013,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE,16,3,13,0,334,478,0.1875,-144,REG
+2014,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE,16,11,5,0,310,299,0.6875,11,REG
+2014,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE,16,6,10,0,381,417,0.375,-36,REG
+2014,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE,16,10,6,0,409,302,0.625,107,REG
+2014,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE,16,9,7,0,343,289,0.5625,54,REG
+2014,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE,16,7,8,1,339,374,0.46875,-35,REG
+2014,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE,16,5,11,0,319,442,0.3125,-123,REG
+2014,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE,16,10,5,1,365,344,0.65625,21,REG
+2014,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE,16,7,9,0,299,337,0.4375,-38,REG
+2014,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE,16,12,4,0,467,352,0.75,115,REG
+2014,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE,16,12,4,0,482,354,0.75,128,REG
+2014,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE,16,11,5,0,321,282,0.6875,39,REG
+2014,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE,16,12,4,0,486,348,0.75,138,REG
+2014,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE,16,9,7,0,372,307,0.5625,65,REG
+2014,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE,16,11,5,0,458,369,0.6875,89,REG
+2014,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE,16,3,13,0,249,412,0.1875,-163,REG
+2014,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE,16,9,7,0,353,281,0.5625,72,REG
+2014,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE,16,6,10,0,324,354,0.375,-30,REG
+2014,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE,16,9,7,0,348,348,0.5625,0,REG
+2014,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE,16,3,13,0,253,452,0.1875,-199,REG
+2014,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE,16,8,8,0,388,373,0.5,15,REG
+2014,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE,16,7,9,0,325,343,0.4375,-18,REG
+2014,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE,16,12,4,0,468,313,0.75,155,REG
+2014,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE,16,7,9,0,401,424,0.4375,-23,REG
+2014,NYG,GIANTS,New York Giants,New York,Giants,TRUE,16,6,10,0,380,400,0.375,-20,REG
+2014,NYJ,JETS,New York Jets,New York,Jets,TRUE,16,4,12,0,283,401,0.25,-118,REG
+2014,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE,16,10,6,0,474,400,0.625,74,REG
+2014,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE,16,11,5,0,436,368,0.6875,68,REG
+2014,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE,16,12,4,0,394,254,0.75,140,REG
+2014,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE,16,8,8,0,306,340,0.5,-34,REG
+2014,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE,16,2,14,0,277,410,0.125,-133,REG
+2014,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE,16,2,14,0,254,438,0.125,-184,REG
+2014,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE,16,4,12,0,301,438,0.25,-137,REG
+2015,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE,16,13,3,0,489,313,0.8125,176,REG
+2015,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE,16,8,8,0,339,345,0.5,-6,REG
+2015,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE,16,5,11,0,328,401,0.3125,-73,REG
+2015,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE,16,8,8,0,379,359,0.5,20,REG
+2015,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE,16,15,1,0,500,308,0.9375,192,REG
+2015,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE,16,6,10,0,335,397,0.375,-62,REG
+2015,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE,16,12,4,0,419,279,0.75,140,REG
+2015,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE,16,3,13,0,278,432,0.1875,-154,REG
+2015,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE,16,4,12,0,275,374,0.25,-99,REG
+2015,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE,16,12,4,0,355,296,0.75,59,REG
+2015,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE,16,7,9,0,358,400,0.4375,-42,REG
+2015,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE,16,10,6,0,368,323,0.625,45,REG
+2015,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE,16,9,7,0,339,313,0.5625,26,REG
+2015,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE,16,8,8,0,333,408,0.5,-75,REG
+2015,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE,16,5,11,0,376,448,0.3125,-72,REG
+2015,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE,16,11,5,0,405,287,0.6875,118,REG
+2015,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE,16,7,9,0,280,330,0.4375,-50,REG
+2015,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE,16,4,12,0,320,398,0.25,-78,REG
+2015,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE,16,7,9,0,359,399,0.4375,-40,REG
+2015,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE,16,6,10,0,310,389,0.375,-79,REG
+2015,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE,16,11,5,0,365,302,0.6875,63,REG
+2015,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE,16,12,4,0,465,315,0.75,150,REG
+2015,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE,16,7,9,0,408,476,0.4375,-68,REG
+2015,NYG,GIANTS,New York Giants,New York,Giants,TRUE,16,6,10,0,420,442,0.375,-22,REG
+2015,NYJ,JETS,New York Jets,New York,Jets,TRUE,16,10,6,0,387,314,0.625,73,REG
+2015,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE,16,7,9,0,377,430,0.4375,-53,REG
+2015,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE,16,10,6,0,423,319,0.625,104,REG
+2015,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE,16,10,6,0,423,277,0.625,146,REG
+2015,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE,16,5,11,0,238,387,0.3125,-149,REG
+2015,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE,16,6,10,0,342,417,0.375,-75,REG
+2015,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE,16,3,13,0,299,423,0.1875,-124,REG
+2015,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE,16,9,7,0,388,379,0.5625,9,REG
+2016,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE,16,7,8,1,418,362,0.46875,56,REG
+2016,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE,16,11,5,0,540,406,0.6875,134,REG
+2016,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE,16,8,8,0,343,321,0.5,22,REG
+2016,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE,16,7,9,0,399,378,0.4375,21,REG
+2016,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE,16,6,10,0,369,402,0.375,-33,REG
+2016,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE,16,3,13,0,279,399,0.1875,-120,REG
+2016,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE,16,6,9,1,325,315,0.40625,10,REG
+2016,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE,16,1,15,0,264,452,0.0625,-188,REG
+2016,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE,16,13,3,0,421,306,0.8125,115,REG
+2016,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE,16,9,7,0,333,297,0.5625,36,REG
+2016,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE,16,9,7,0,346,358,0.5625,-12,REG
+2016,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE,16,10,6,0,432,388,0.625,44,REG
+2016,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE,16,9,7,0,279,328,0.5625,-49,REG
+2016,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE,16,8,8,0,411,392,0.5,19,REG
+2016,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE,16,3,13,0,318,400,0.1875,-82,REG
+2016,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE,16,12,4,0,389,311,0.75,78,REG
+2016,LA,RAMS,Los Angeles Rams,Los Angeles,Rams,TRUE,16,4,12,0,224,394,0.25,-170,REG
+2016,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE,16,5,11,0,410,423,0.3125,-13,REG
+2016,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE,16,12,4,0,416,385,0.75,31,REG
+2016,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE,16,10,6,0,363,380,0.625,-17,REG
+2016,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE,16,8,8,0,327,307,0.5,20,REG
+2016,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE,16,14,2,0,441,250,0.875,191,REG
+2016,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE,16,7,9,0,469,454,0.4375,15,REG
+2016,NYG,GIANTS,New York Giants,New York,Giants,TRUE,16,11,5,0,310,284,0.6875,26,REG
+2016,NYJ,JETS,New York Jets,New York,Jets,TRUE,16,5,11,0,275,409,0.3125,-134,REG
+2016,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE,16,7,9,0,367,331,0.4375,36,REG
+2016,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE,16,11,5,0,399,327,0.6875,72,REG
+2016,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE,16,10,5,1,354,292,0.65625,62,REG
+2016,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE,16,2,14,0,309,480,0.125,-171,REG
+2016,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE,16,9,7,0,354,369,0.5625,-15,REG
+2016,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE,16,9,7,0,381,378,0.5625,3,REG
+2016,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE,16,8,7,1,396,383,0.53125,13,REG
+2017,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE,16,8,8,0,295,361,0.5,-66,REG
+2017,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE,16,10,6,0,353,315,0.625,38,REG
+2017,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE,16,9,7,0,395,303,0.5625,92,REG
+2017,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE,16,9,7,0,302,359,0.5625,-57,REG
+2017,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE,16,11,5,0,363,327,0.6875,36,REG
+2017,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE,16,5,11,0,264,320,0.3125,-56,REG
+2017,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE,16,7,9,0,290,349,0.4375,-59,REG
+2017,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE,16,0,16,0,234,410,0,-176,REG
+2017,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE,16,9,7,0,354,332,0.5625,22,REG
+2017,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE,16,5,11,0,289,382,0.3125,-93,REG
+2017,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE,16,9,7,0,410,376,0.5625,34,REG
+2017,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE,16,7,9,0,320,384,0.4375,-64,REG
+2017,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE,16,4,12,0,338,436,0.25,-98,REG
+2017,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE,16,4,12,0,263,404,0.25,-141,REG
+2017,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE,16,10,6,0,417,268,0.625,149,REG
+2017,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE,16,10,6,0,415,339,0.625,76,REG
+2017,LA,RAMS,Los Angeles Rams,Los Angeles,Rams,TRUE,16,11,5,0,478,329,0.6875,149,REG
+2017,LAC,CHARGERS,Los Angeles Chargers,Los Angeles,Chargers,TRUE,16,9,7,0,355,272,0.5625,83,REG
+2017,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE,16,6,10,0,301,373,0.375,-72,REG
+2017,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE,16,6,10,0,281,393,0.375,-112,REG
+2017,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE,16,13,3,0,382,252,0.8125,130,REG
+2017,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE,16,13,3,0,458,296,0.8125,162,REG
+2017,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE,16,11,5,0,448,326,0.6875,122,REG
+2017,NYG,GIANTS,New York Giants,New York,Giants,TRUE,16,3,13,0,246,388,0.1875,-142,REG
+2017,NYJ,JETS,New York Jets,New York,Jets,TRUE,16,5,11,0,298,382,0.3125,-84,REG
+2017,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE,16,13,3,0,457,295,0.8125,162,REG
+2017,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE,16,13,3,0,406,308,0.8125,98,REG
+2017,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE,16,9,7,0,366,332,0.5625,34,REG
+2017,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE,16,6,10,0,331,383,0.375,-52,REG
+2017,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE,16,5,11,0,335,382,0.3125,-47,REG
+2017,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE,16,9,7,0,334,356,0.5625,-22,REG
+2017,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE,16,7,9,0,342,388,0.4375,-46,REG
+2018,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE,16,3,13,0,225,425,0.1875,-200,REG
+2018,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE,16,7,9,0,414,423,0.4375,-9,REG
+2018,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE,16,10,6,0,389,287,0.625,102,REG
+2018,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE,16,6,10,0,269,374,0.375,-105,REG
+2018,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE,16,7,9,0,376,382,0.4375,-6,REG
+2018,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE,16,12,4,0,421,283,0.75,138,REG
+2018,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE,16,6,10,0,368,455,0.375,-87,REG
+2018,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE,16,7,8,1,359,392,0.46875,-33,REG
+2018,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE,16,10,6,0,339,324,0.625,15,REG
+2018,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE,16,6,10,0,329,349,0.375,-20,REG
+2018,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE,16,6,10,0,324,360,0.375,-36,REG
+2018,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE,16,6,9,1,376,400,0.40625,-24,REG
+2018,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE,16,11,5,0,402,316,0.6875,86,REG
+2018,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE,16,10,6,0,433,344,0.625,89,REG
+2018,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE,16,5,11,0,245,316,0.3125,-71,REG
+2018,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE,16,12,4,0,565,421,0.75,144,REG
+2018,LA,RAMS,Los Angeles Rams,Los Angeles,Rams,TRUE,16,13,3,0,527,384,0.8125,143,REG
+2018,LAC,CHARGERS,Los Angeles Chargers,Los Angeles,Chargers,TRUE,16,12,4,0,428,329,0.75,99,REG
+2018,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE,16,4,12,0,290,467,0.25,-177,REG
+2018,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE,16,7,9,0,319,433,0.4375,-114,REG
+2018,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE,16,8,7,1,360,341,0.53125,19,REG
+2018,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE,16,11,5,0,436,325,0.6875,111,REG
+2018,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE,16,13,3,0,504,353,0.8125,151,REG
+2018,NYG,GIANTS,New York Giants,New York,Giants,TRUE,16,5,11,0,369,412,0.3125,-43,REG
+2018,NYJ,JETS,New York Jets,New York,Jets,TRUE,16,4,12,0,333,441,0.25,-108,REG
+2018,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE,16,9,7,0,367,348,0.5625,19,REG
+2018,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE,16,9,6,1,428,360,0.59375,68,REG
+2018,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE,16,10,6,0,428,347,0.625,81,REG
+2018,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE,16,4,12,0,342,435,0.25,-93,REG
+2018,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE,16,5,11,0,396,464,0.3125,-68,REG
+2018,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE,16,9,7,0,310,303,0.5625,7,REG
+2018,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE,16,7,9,0,281,359,0.4375,-78,REG
+2019,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE,16,5,10,1,361,442,0.34375,-81,REG
+2019,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE,16,7,9,0,381,399,0.4375,-18,REG
+2019,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE,16,14,2,0,531,282,0.875,249,REG
+2019,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE,16,10,6,0,314,259,0.625,55,REG
+2019,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE,16,5,11,0,340,470,0.3125,-130,REG
+2019,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE,16,8,8,0,280,298,0.5,-18,REG
+2019,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE,16,2,14,0,279,420,0.125,-141,REG
+2019,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE,16,6,10,0,335,393,0.375,-58,REG
+2019,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE,16,8,8,0,434,321,0.5,113,REG
+2019,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE,16,7,9,0,282,316,0.4375,-34,REG
+2019,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE,16,3,12,1,341,423,0.21875,-82,REG
+2019,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE,16,13,3,0,376,313,0.8125,63,REG
+2019,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE,16,10,6,0,378,385,0.625,-7,REG
+2019,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE,16,7,9,0,361,373,0.4375,-12,REG
+2019,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE,16,6,10,0,300,397,0.375,-97,REG
+2019,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE,16,12,4,0,451,308,0.75,143,REG
+2019,LA,RAMS,Los Angeles Rams,Los Angeles,Rams,TRUE,16,9,7,0,394,364,0.5625,30,REG
+2019,LAC,CHARGERS,Los Angeles Chargers,Los Angeles,Chargers,TRUE,16,5,11,0,337,345,0.3125,-8,REG
+2019,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE,16,7,9,0,313,419,0.4375,-106,REG
+2019,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE,16,5,11,0,306,494,0.3125,-188,REG
+2019,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE,16,10,6,0,407,303,0.625,104,REG
+2019,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE,16,12,4,0,420,225,0.75,195,REG
+2019,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE,16,13,3,0,458,341,0.8125,117,REG
+2019,NYG,GIANTS,New York Giants,New York,Giants,TRUE,16,4,12,0,341,451,0.25,-110,REG
+2019,NYJ,JETS,New York Jets,New York,Jets,TRUE,16,7,9,0,276,359,0.4375,-83,REG
+2019,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE,16,9,7,0,385,354,0.5625,31,REG
+2019,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE,16,8,8,0,289,303,0.5,-14,REG
+2019,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE,16,11,5,0,405,398,0.6875,7,REG
+2019,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE,16,13,3,0,479,310,0.8125,169,REG
+2019,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE,16,7,9,0,458,449,0.4375,9,REG
+2019,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE,16,9,7,0,402,331,0.5625,71,REG
+2019,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE,16,3,13,0,266,435,0.1875,-169,REG
+2020,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE,16,8,8,0,410,367,0.5,43,REG
+2020,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE,16,4,12,0,396,414,0.25,-18,REG
+2020,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE,16,11,5,0,468,303,0.6875,165,REG
+2020,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE,16,13,3,0,501,375,0.8125,126,REG
+2020,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE,16,5,11,0,350,402,0.3125,-52,REG
+2020,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE,16,8,8,0,372,370,0.5,2,REG
+2020,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE,16,4,11,1,311,424,0.28125,-113,REG
+2020,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE,16,11,5,0,408,419,0.6875,-11,REG
+2020,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE,16,6,10,0,395,473,0.375,-78,REG
+2020,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE,16,5,11,0,323,446,0.3125,-123,REG
+2020,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE,16,5,11,0,377,519,0.3125,-142,REG
+2020,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE,16,13,3,0,509,369,0.8125,140,REG
+2020,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE,16,4,12,0,384,464,0.25,-80,REG
+2020,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE,16,11,5,0,451,362,0.6875,89,REG
+2020,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE,16,1,15,0,306,492,0.0625,-186,REG
+2020,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE,16,14,2,0,473,362,0.875,111,REG
+2020,LA,RAMS,Los Angeles Rams,Los Angeles,Rams,TRUE,16,10,6,0,372,296,0.625,76,REG
+2020,LAC,CHARGERS,Los Angeles Chargers,Los Angeles,Chargers,TRUE,16,7,9,0,384,426,0.4375,-42,REG
+2020,LV,RAIDERS,Las Vegas Raiders,Las Vegas,Raiders,TRUE,16,8,8,0,434,478,0.5,-44,REG
+2020,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE,16,10,6,0,404,338,0.625,66,REG
+2020,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE,16,7,9,0,430,475,0.4375,-45,REG
+2020,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE,16,7,9,0,326,353,0.4375,-27,REG
+2020,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE,16,12,4,0,482,337,0.75,145,REG
+2020,NYG,GIANTS,New York Giants,New York,Giants,TRUE,16,6,10,0,280,357,0.375,-77,REG
+2020,NYJ,JETS,New York Jets,New York,Jets,TRUE,16,2,14,0,243,457,0.125,-214,REG
+2020,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE,16,4,11,1,334,418,0.28125,-84,REG
+2020,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE,16,12,4,0,416,312,0.75,104,REG
+2020,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE,16,12,4,0,459,371,0.75,88,REG
+2020,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE,16,6,10,0,376,390,0.375,-14,REG
+2020,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE,16,11,5,0,492,355,0.6875,137,REG
+2020,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE,16,11,5,0,491,439,0.6875,52,REG
+2020,WAS,WASHINGTON,Washington Football Team,Washington,Football Team,TRUE,16,7,9,0,335,329,0.4375,6,REG
+2021,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE,17,11,6,0,449,366,0.6470588235294118,83,REG
+2021,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE,17,7,10,0,313,459,0.4117647058823529,-146,REG
+2021,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE,17,8,9,0,387,392,0.47058823529411764,-5,REG
+2021,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE,17,11,6,0,483,289,0.6470588235294118,194,REG
+2021,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE,17,5,12,0,304,404,0.29411764705882354,-100,REG
+2021,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE,17,6,11,0,311,407,0.35294117647058826,-96,REG
+2021,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE,17,10,7,0,460,376,0.5882352941176471,84,REG
+2021,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE,17,8,9,0,349,371,0.47058823529411764,-22,REG
+2021,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE,17,12,5,0,530,358,0.7058823529411765,172,REG
+2021,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE,17,7,10,0,335,322,0.4117647058823529,13,REG
+2021,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE,17,3,13,1,325,467,0.20588235294117646,-142,REG
+2021,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE,17,13,4,0,450,371,0.7647058823529411,79,REG
+2021,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE,17,4,13,0,280,452,0.23529411764705882,-172,REG
+2021,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE,17,9,8,0,451,365,0.5294117647058824,86,REG
+2021,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE,17,3,14,0,253,457,0.17647058823529413,-204,REG
+2021,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE,17,12,5,0,480,364,0.7058823529411765,116,REG
+2021,LA,RAMS,Los Angeles Rams,Los Angeles,Rams,TRUE,17,12,5,0,460,372,0.7058823529411765,88,REG
+2021,LAC,CHARGERS,Los Angeles Chargers,Los Angeles,Chargers,TRUE,17,9,8,0,474,459,0.5294117647058824,15,REG
+2021,LV,RAIDERS,Las Vegas Raiders,Las Vegas,Raiders,TRUE,17,10,7,0,374,439,0.5882352941176471,-65,REG
+2021,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE,17,9,8,0,341,373,0.5294117647058824,-32,REG
+2021,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE,17,8,9,0,425,426,0.47058823529411764,-1,REG
+2021,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE,17,10,7,0,462,303,0.5882352941176471,159,REG
+2021,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE,17,9,8,0,364,335,0.5294117647058824,29,REG
+2021,NYG,GIANTS,New York Giants,New York,Giants,TRUE,17,4,13,0,258,416,0.23529411764705882,-158,REG
+2021,NYJ,JETS,New York Jets,New York,Jets,TRUE,17,4,13,0,310,504,0.23529411764705882,-194,REG
+2021,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE,17,9,8,0,444,385,0.5294117647058824,59,REG
+2021,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE,17,9,7,1,343,398,0.5588235294117647,-55,REG
+2021,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE,17,7,10,0,395,366,0.4117647058823529,29,REG
+2021,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE,17,10,7,0,427,365,0.5882352941176471,62,REG
+2021,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE,17,13,4,0,511,353,0.7647058823529411,158,REG
+2021,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE,17,12,5,0,419,354,0.7058823529411765,65,REG
+2021,WAS,WASHINGTON,Washington Football Team,Washington,Football Team,TRUE,17,7,10,0,335,434,0.4117647058823529,-99,REG
+2022,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE,17,4,13,0,340,449,0.23529411764705882,-109,REG
+2022,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE,17,7,10,0,365,386,0.4117647058823529,-21,REG
+2022,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE,17,10,7,0,350,315,0.5882352941176471,35,REG
+2022,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE,16,13,3,0,455,286,0.8125,169,REG
+2022,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE,17,7,10,0,347,374,0.4117647058823529,-27,REG
+2022,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE,17,3,14,0,326,463,0.17647058823529413,-137,REG
+2022,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE,16,12,4,0,418,322,0.75,96,REG
+2022,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE,17,7,10,0,361,381,0.4117647058823529,-20,REG
+2022,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE,17,12,5,0,467,342,0.7058823529411765,125,REG
+2022,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE,17,5,12,0,287,359,0.29411764705882354,-72,REG
+2022,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE,17,9,8,0,453,427,0.5294117647058824,26,REG
+2022,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE,17,8,9,0,370,371,0.47058823529411764,-1,REG
+2022,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE,17,3,13,1,289,420,0.20588235294117646,-131,REG
+2022,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE,17,4,12,1,289,427,0.2647058823529412,-138,REG
+2022,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE,17,9,8,0,404,350,0.5294117647058824,54,REG
+2022,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE,17,14,3,0,496,369,0.8235294117647058,127,REG
+2022,LA,RAMS,Los Angeles Rams,Los Angeles,Rams,TRUE,17,5,12,0,307,384,0.29411764705882354,-77,REG
+2022,LAC,CHARGERS,Los Angeles Chargers,Los Angeles,Chargers,TRUE,17,10,7,0,391,384,0.5882352941176471,7,REG
+2022,LV,RAIDERS,Las Vegas Raiders,Las Vegas,Raiders,TRUE,17,6,11,0,395,418,0.35294117647058826,-23,REG
+2022,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE,17,9,8,0,397,399,0.5294117647058824,-2,REG
+2022,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE,17,13,4,0,424,427,0.7647058823529411,-3,REG
+2022,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE,17,8,9,0,364,347,0.47058823529411764,17,REG
+2022,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE,17,7,10,0,330,345,0.4117647058823529,-15,REG
+2022,NYG,GIANTS,New York Giants,New York,Giants,TRUE,17,9,7,1,365,371,0.5588235294117647,-6,REG
+2022,NYJ,JETS,New York Jets,New York,Jets,TRUE,17,7,10,0,296,316,0.4117647058823529,-20,REG
+2022,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE,17,14,3,0,477,344,0.8235294117647058,133,REG
+2022,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE,17,9,8,0,308,346,0.5294117647058824,-38,REG
+2022,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE,17,9,8,0,407,401,0.5294117647058824,6,REG
+2022,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE,17,13,4,0,450,277,0.7647058823529411,173,REG
+2022,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE,17,8,9,0,313,358,0.47058823529411764,-45,REG
+2022,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE,17,7,10,0,298,359,0.4117647058823529,-61,REG
+2022,WAS,WASHINGTON,Washington Commanders,Washington,Commanders,TRUE,17,8,8,1,321,343,0.5,-22,REG
+2023,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE,17,4,13,0,330,455,0.23529411764705882,-125,REG
+2023,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE,17,7,10,0,321,373,0.4117647058823529,-52,REG
+2023,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE,17,13,4,0,483,280,0.7647058823529411,203,REG
+2023,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE,17,11,6,0,451,311,0.6470588235294118,140,REG
+2023,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE,17,2,15,0,236,416,0.11764705882352941,-180,REG
+2023,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE,17,7,10,0,360,379,0.4117647058823529,-19,REG
+2023,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE,17,9,8,0,366,384,0.5294117647058824,-18,REG
+2023,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE,17,11,6,0,396,362,0.6470588235294118,34,REG
+2023,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE,17,12,5,0,509,315,0.7058823529411765,194,REG
+2023,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE,17,8,9,0,357,413,0.47058823529411764,-56,REG
+2023,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE,17,12,5,0,461,395,0.7058823529411765,66,REG
+2023,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE,17,9,8,0,383,350,0.5294117647058824,33,REG
+2023,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE,17,10,7,0,377,353,0.5882352941176471,24,REG
+2023,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE,17,9,8,0,396,415,0.5294117647058824,-19,REG
+2023,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE,17,9,8,0,377,371,0.5294117647058824,6,REG
+2023,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE,17,11,6,0,371,294,0.6470588235294118,77,REG
+2023,LA,RAMS,Los Angeles Rams,Los Angeles,Rams,TRUE,17,10,7,0,404,377,0.5882352941176471,27,REG
+2023,LAC,CHARGERS,Los Angeles Chargers,Los Angeles,Chargers,TRUE,17,5,12,0,346,398,0.29411764705882354,-52,REG
+2023,LV,RAIDERS,Las Vegas Raiders,Las Vegas,Raiders,TRUE,17,8,9,0,332,331,0.47058823529411764,1,REG
+2023,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE,17,11,6,0,496,391,0.6470588235294118,105,REG
+2023,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE,17,7,10,0,344,362,0.4117647058823529,-18,REG
+2023,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE,17,4,13,0,236,366,0.23529411764705882,-130,REG
+2023,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE,17,9,8,0,402,327,0.5294117647058824,75,REG
+2023,NYG,GIANTS,New York Giants,New York,Giants,TRUE,17,6,11,0,266,407,0.35294117647058826,-141,REG
+2023,NYJ,JETS,New York Jets,New York,Jets,TRUE,17,7,10,0,268,355,0.4117647058823529,-87,REG
+2023,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE,17,11,6,0,433,428,0.6470588235294118,5,REG
+2023,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE,17,10,7,0,304,324,0.5882352941176471,-20,REG
+2023,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE,17,9,8,0,364,402,0.5294117647058824,-38,REG
+2023,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE,17,12,5,0,491,298,0.7058823529411765,193,REG
+2023,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE,17,9,8,0,348,325,0.5294117647058824,23,REG
+2023,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE,17,6,11,0,305,367,0.35294117647058826,-62,REG
+2023,WAS,WASHINGTON,Washington Commanders,Washington,Commanders,TRUE,17,4,13,0,329,518,0.23529411764705882,-189,REG
+2024,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE,17,8,9,0,400,379,0.47058823529411764,21,REG
+2024,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE,17,8,9,0,389,423,0.47058823529411764,-34,REG
+2024,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE,17,12,5,0,518,361,0.7058823529411765,157,REG
+2024,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE,17,13,4,0,525,368,0.7647058823529411,157,REG
+2024,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE,17,5,12,0,341,534,0.29411764705882354,-193,REG
+2024,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE,17,5,12,0,310,370,0.29411764705882354,-60,REG
+2024,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE,17,9,8,0,472,434,0.5294117647058824,38,REG
+2024,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE,17,3,14,0,258,435,0.17647058823529413,-177,REG
+2024,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE,17,7,10,0,350,468,0.4117647058823529,-118,REG
+2024,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE,17,10,7,0,425,311,0.5882352941176471,114,REG
+2024,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE,17,15,2,0,564,342,0.8823529411764706,222,REG
+2024,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE,17,11,6,0,460,338,0.6470588235294118,122,REG
+2024,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE,17,10,7,0,372,372,0.5882352941176471,0,REG
+2024,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE,17,8,9,0,377,427,0.47058823529411764,-50,REG
+2024,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE,17,4,13,0,320,435,0.23529411764705882,-115,REG
+2024,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE,17,15,2,0,385,326,0.8823529411764706,59,REG
+2024,LA,RAMS,Los Angeles Rams,Los Angeles,Rams,TRUE,17,10,7,0,367,386,0.5882352941176471,-19,REG
+2024,LAC,CHARGERS,Los Angeles Chargers,Los Angeles,Chargers,TRUE,17,11,6,0,402,301,0.6470588235294118,101,REG
+2024,LV,RAIDERS,Las Vegas Raiders,Las Vegas,Raiders,TRUE,17,4,13,0,309,434,0.23529411764705882,-125,REG
+2024,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE,17,8,9,0,345,364,0.47058823529411764,-19,REG
+2024,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE,17,14,3,0,432,332,0.8235294117647058,100,REG
+2024,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE,17,4,13,0,289,417,0.23529411764705882,-128,REG
+2024,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE,17,5,12,0,338,398,0.29411764705882354,-60,REG
+2024,NYG,GIANTS,New York Giants,New York,Giants,TRUE,17,3,14,0,273,415,0.17647058823529413,-142,REG
+2024,NYJ,JETS,New York Jets,New York,Jets,TRUE,17,5,12,0,338,404,0.29411764705882354,-66,REG
+2024,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE,17,14,3,0,463,303,0.8235294117647058,160,REG
+2024,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE,17,10,7,0,380,347,0.5882352941176471,33,REG
+2024,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE,17,10,7,0,375,368,0.5882352941176471,7,REG
+2024,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE,17,6,11,0,389,436,0.35294117647058826,-47,REG
+2024,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE,17,10,7,0,502,385,0.5882352941176471,117,REG
+2024,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE,17,3,14,0,311,460,0.17647058823529413,-149,REG
+2024,WAS,WASHINGTON,Washington Commanders,Washington,Commanders,TRUE,17,12,5,0,485,391,0.7058823529411765,94,REG
+2025,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE,17,3,14,0,355,488,0.17647058823529413,-133,REG
+2025,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE,17,8,9,0,353,401,0.47058823529411764,-48,REG
+2025,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE,17,8,9,0,424,398,0.47058823529411764,26,REG
+2025,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE,17,12,5,0,481,365,0.7058823529411765,116,REG
+2025,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE,17,8,9,0,311,380,0.47058823529411764,-69,REG
+2025,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE,17,11,6,0,441,415,0.6470588235294118,26,REG
+2025,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE,17,6,11,0,414,492,0.35294117647058826,-78,REG
+2025,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE,17,5,12,0,279,379,0.29411764705882354,-100,REG
+2025,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE,17,7,9,1,471,511,0.4411764705882353,-40,REG
+2025,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE,17,14,3,0,401,311,0.8235294117647058,90,REG
+2025,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE,17,9,8,0,481,413,0.5294117647058824,68,REG
+2025,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE,17,9,7,1,391,360,0.5588235294117647,31,REG
+2025,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE,17,12,5,0,404,295,0.7058823529411765,109,REG
+2025,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE,17,8,9,0,466,412,0.47058823529411764,54,REG
+2025,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE,17,13,4,0,474,336,0.7647058823529411,138,REG
+2025,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE,17,6,11,0,362,328,0.35294117647058826,34,REG
+2025,LA,RAMS,Los Angeles Rams,Los Angeles,Rams,TRUE,17,12,5,0,518,346,0.7058823529411765,172,REG
+2025,LAC,CHARGERS,Los Angeles Chargers,Los Angeles,Chargers,TRUE,17,11,6,0,368,340,0.6470588235294118,28,REG
+2025,LV,RAIDERS,Las Vegas Raiders,Las Vegas,Raiders,TRUE,17,3,14,0,241,432,0.17647058823529413,-191,REG
+2025,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE,17,7,10,0,347,424,0.4117647058823529,-77,REG
+2025,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE,17,9,8,0,344,333,0.5294117647058824,11,REG
+2025,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE,17,14,3,0,490,320,0.8235294117647058,170,REG
+2025,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE,17,6,11,0,306,383,0.35294117647058826,-77,REG
+2025,NYG,GIANTS,New York Giants,New York,Giants,TRUE,17,4,13,0,381,439,0.23529411764705882,-58,REG
+2025,NYJ,JETS,New York Jets,New York,Jets,TRUE,17,3,14,0,300,503,0.17647058823529413,-203,REG
+2025,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE,17,11,6,0,379,325,0.6470588235294118,54,REG
+2025,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE,17,10,7,0,397,387,0.5882352941176471,10,REG
+2025,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE,17,14,3,0,483,292,0.8235294117647058,191,REG
+2025,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE,17,12,5,0,437,371,0.7058823529411765,66,REG
+2025,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE,17,8,9,0,380,411,0.47058823529411764,-31,REG
+2025,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE,17,3,14,0,284,478,0.17647058823529413,-194,REG
+2025,WAS,WASHINGTON,Washington Commanders,Washington,Commanders,TRUE,17,5,12,0,356,451,0.29411764705882354,-95,REG

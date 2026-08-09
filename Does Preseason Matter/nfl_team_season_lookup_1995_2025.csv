@@ -1,0 +1,982 @@
+season,team_id,franchise_id,historical_team_name,city,nickname,active
+1995,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE
+1995,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE
+1995,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE
+1995,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE
+1995,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE
+1995,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE
+1995,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE
+1995,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE
+1995,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE
+1995,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE
+1995,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE
+1995,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE
+1995,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE
+1995,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE
+1995,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE
+1995,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE
+1995,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE
+1995,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE
+1995,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE
+1995,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE
+1995,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE
+1995,NYG,GIANTS,New York Giants,New York,Giants,TRUE
+1995,NYJ,JETS,New York Jets,New York,Jets,TRUE
+1995,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE
+1995,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE
+1995,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE
+1995,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE
+1995,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE
+1995,TEN,TITANS,Houston Oilers,Houston,Oilers,TRUE
+1995,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE
+1996,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE
+1996,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE
+1996,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE
+1996,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE
+1996,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE
+1996,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE
+1996,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE
+1996,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE
+1996,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE
+1996,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE
+1996,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE
+1996,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE
+1996,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE
+1996,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE
+1996,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE
+1996,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE
+1996,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE
+1996,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE
+1996,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE
+1996,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE
+1996,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE
+1996,NYG,GIANTS,New York Giants,New York,Giants,TRUE
+1996,NYJ,JETS,New York Jets,New York,Jets,TRUE
+1996,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE
+1996,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE
+1996,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE
+1996,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE
+1996,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE
+1996,TEN,TITANS,Houston Oilers,Houston,Oilers,TRUE
+1996,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE
+1997,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE
+1997,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE
+1997,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE
+1997,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE
+1997,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE
+1997,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE
+1997,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE
+1997,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE
+1997,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE
+1997,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE
+1997,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE
+1997,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE
+1997,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE
+1997,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE
+1997,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE
+1997,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE
+1997,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE
+1997,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE
+1997,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE
+1997,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE
+1997,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE
+1997,NYG,GIANTS,New York Giants,New York,Giants,TRUE
+1997,NYJ,JETS,New York Jets,New York,Jets,TRUE
+1997,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE
+1997,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE
+1997,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE
+1997,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE
+1997,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE
+1997,TEN,TITANS,Tennessee Oilers,Tennessee,Oilers,TRUE
+1997,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE
+1998,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE
+1998,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE
+1998,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE
+1998,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE
+1998,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE
+1998,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE
+1998,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE
+1998,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE
+1998,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE
+1998,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE
+1998,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE
+1998,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE
+1998,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE
+1998,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE
+1998,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE
+1998,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE
+1998,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE
+1998,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE
+1998,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE
+1998,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE
+1998,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE
+1998,NYG,GIANTS,New York Giants,New York,Giants,TRUE
+1998,NYJ,JETS,New York Jets,New York,Jets,TRUE
+1998,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE
+1998,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE
+1998,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE
+1998,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE
+1998,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE
+1998,TEN,TITANS,Tennessee Oilers,Tennessee,Oilers,TRUE
+1998,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE
+1999,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE
+1999,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE
+1999,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE
+1999,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE
+1999,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE
+1999,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE
+1999,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE
+1999,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE
+1999,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE
+1999,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE
+1999,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE
+1999,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE
+1999,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE
+1999,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE
+1999,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE
+1999,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE
+1999,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE
+1999,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE
+1999,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE
+1999,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE
+1999,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE
+1999,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE
+1999,NYG,GIANTS,New York Giants,New York,Giants,TRUE
+1999,NYJ,JETS,New York Jets,New York,Jets,TRUE
+1999,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE
+1999,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE
+1999,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE
+1999,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE
+1999,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE
+1999,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE
+1999,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE
+2000,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE
+2000,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE
+2000,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE
+2000,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE
+2000,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE
+2000,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE
+2000,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE
+2000,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE
+2000,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE
+2000,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE
+2000,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE
+2000,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE
+2000,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE
+2000,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE
+2000,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE
+2000,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE
+2000,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE
+2000,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE
+2000,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE
+2000,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE
+2000,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE
+2000,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE
+2000,NYG,GIANTS,New York Giants,New York,Giants,TRUE
+2000,NYJ,JETS,New York Jets,New York,Jets,TRUE
+2000,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE
+2000,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE
+2000,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE
+2000,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE
+2000,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE
+2000,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE
+2000,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE
+2001,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE
+2001,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE
+2001,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE
+2001,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE
+2001,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE
+2001,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE
+2001,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE
+2001,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE
+2001,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE
+2001,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE
+2001,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE
+2001,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE
+2001,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE
+2001,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE
+2001,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE
+2001,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE
+2001,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE
+2001,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE
+2001,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE
+2001,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE
+2001,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE
+2001,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE
+2001,NYG,GIANTS,New York Giants,New York,Giants,TRUE
+2001,NYJ,JETS,New York Jets,New York,Jets,TRUE
+2001,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE
+2001,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE
+2001,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE
+2001,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE
+2001,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE
+2001,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE
+2001,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE
+2002,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE
+2002,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE
+2002,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE
+2002,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE
+2002,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE
+2002,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE
+2002,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE
+2002,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE
+2002,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE
+2002,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE
+2002,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE
+2002,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE
+2002,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE
+2002,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE
+2002,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE
+2002,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE
+2002,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE
+2002,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE
+2002,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE
+2002,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE
+2002,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE
+2002,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE
+2002,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE
+2002,NYG,GIANTS,New York Giants,New York,Giants,TRUE
+2002,NYJ,JETS,New York Jets,New York,Jets,TRUE
+2002,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE
+2002,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE
+2002,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE
+2002,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE
+2002,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE
+2002,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE
+2002,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE
+2003,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE
+2003,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE
+2003,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE
+2003,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE
+2003,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE
+2003,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE
+2003,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE
+2003,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE
+2003,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE
+2003,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE
+2003,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE
+2003,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE
+2003,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE
+2003,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE
+2003,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE
+2003,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE
+2003,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE
+2003,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE
+2003,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE
+2003,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE
+2003,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE
+2003,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE
+2003,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE
+2003,NYG,GIANTS,New York Giants,New York,Giants,TRUE
+2003,NYJ,JETS,New York Jets,New York,Jets,TRUE
+2003,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE
+2003,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE
+2003,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE
+2003,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE
+2003,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE
+2003,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE
+2003,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE
+2004,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE
+2004,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE
+2004,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE
+2004,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE
+2004,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE
+2004,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE
+2004,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE
+2004,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE
+2004,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE
+2004,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE
+2004,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE
+2004,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE
+2004,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE
+2004,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE
+2004,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE
+2004,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE
+2004,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE
+2004,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE
+2004,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE
+2004,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE
+2004,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE
+2004,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE
+2004,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE
+2004,NYG,GIANTS,New York Giants,New York,Giants,TRUE
+2004,NYJ,JETS,New York Jets,New York,Jets,TRUE
+2004,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE
+2004,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE
+2004,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE
+2004,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE
+2004,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE
+2004,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE
+2004,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE
+2005,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE
+2005,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE
+2005,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE
+2005,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE
+2005,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE
+2005,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE
+2005,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE
+2005,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE
+2005,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE
+2005,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE
+2005,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE
+2005,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE
+2005,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE
+2005,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE
+2005,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE
+2005,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE
+2005,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE
+2005,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE
+2005,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE
+2005,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE
+2005,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE
+2005,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE
+2005,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE
+2005,NYG,GIANTS,New York Giants,New York,Giants,TRUE
+2005,NYJ,JETS,New York Jets,New York,Jets,TRUE
+2005,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE
+2005,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE
+2005,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE
+2005,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE
+2005,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE
+2005,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE
+2005,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE
+2006,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE
+2006,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE
+2006,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE
+2006,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE
+2006,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE
+2006,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE
+2006,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE
+2006,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE
+2006,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE
+2006,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE
+2006,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE
+2006,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE
+2006,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE
+2006,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE
+2006,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE
+2006,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE
+2006,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE
+2006,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE
+2006,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE
+2006,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE
+2006,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE
+2006,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE
+2006,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE
+2006,NYG,GIANTS,New York Giants,New York,Giants,TRUE
+2006,NYJ,JETS,New York Jets,New York,Jets,TRUE
+2006,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE
+2006,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE
+2006,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE
+2006,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE
+2006,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE
+2006,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE
+2006,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE
+2007,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE
+2007,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE
+2007,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE
+2007,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE
+2007,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE
+2007,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE
+2007,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE
+2007,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE
+2007,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE
+2007,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE
+2007,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE
+2007,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE
+2007,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE
+2007,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE
+2007,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE
+2007,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE
+2007,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE
+2007,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE
+2007,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE
+2007,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE
+2007,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE
+2007,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE
+2007,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE
+2007,NYG,GIANTS,New York Giants,New York,Giants,TRUE
+2007,NYJ,JETS,New York Jets,New York,Jets,TRUE
+2007,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE
+2007,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE
+2007,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE
+2007,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE
+2007,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE
+2007,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE
+2007,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE
+2008,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE
+2008,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE
+2008,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE
+2008,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE
+2008,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE
+2008,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE
+2008,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE
+2008,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE
+2008,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE
+2008,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE
+2008,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE
+2008,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE
+2008,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE
+2008,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE
+2008,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE
+2008,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE
+2008,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE
+2008,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE
+2008,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE
+2008,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE
+2008,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE
+2008,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE
+2008,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE
+2008,NYG,GIANTS,New York Giants,New York,Giants,TRUE
+2008,NYJ,JETS,New York Jets,New York,Jets,TRUE
+2008,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE
+2008,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE
+2008,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE
+2008,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE
+2008,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE
+2008,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE
+2008,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE
+2009,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE
+2009,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE
+2009,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE
+2009,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE
+2009,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE
+2009,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE
+2009,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE
+2009,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE
+2009,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE
+2009,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE
+2009,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE
+2009,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE
+2009,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE
+2009,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE
+2009,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE
+2009,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE
+2009,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE
+2009,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE
+2009,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE
+2009,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE
+2009,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE
+2009,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE
+2009,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE
+2009,NYG,GIANTS,New York Giants,New York,Giants,TRUE
+2009,NYJ,JETS,New York Jets,New York,Jets,TRUE
+2009,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE
+2009,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE
+2009,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE
+2009,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE
+2009,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE
+2009,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE
+2009,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE
+2010,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE
+2010,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE
+2010,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE
+2010,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE
+2010,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE
+2010,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE
+2010,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE
+2010,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE
+2010,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE
+2010,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE
+2010,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE
+2010,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE
+2010,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE
+2010,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE
+2010,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE
+2010,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE
+2010,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE
+2010,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE
+2010,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE
+2010,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE
+2010,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE
+2010,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE
+2010,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE
+2010,NYG,GIANTS,New York Giants,New York,Giants,TRUE
+2010,NYJ,JETS,New York Jets,New York,Jets,TRUE
+2010,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE
+2010,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE
+2010,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE
+2010,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE
+2010,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE
+2010,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE
+2010,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE
+2011,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE
+2011,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE
+2011,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE
+2011,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE
+2011,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE
+2011,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE
+2011,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE
+2011,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE
+2011,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE
+2011,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE
+2011,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE
+2011,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE
+2011,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE
+2011,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE
+2011,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE
+2011,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE
+2011,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE
+2011,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE
+2011,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE
+2011,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE
+2011,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE
+2011,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE
+2011,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE
+2011,NYG,GIANTS,New York Giants,New York,Giants,TRUE
+2011,NYJ,JETS,New York Jets,New York,Jets,TRUE
+2011,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE
+2011,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE
+2011,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE
+2011,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE
+2011,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE
+2011,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE
+2011,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE
+2012,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE
+2012,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE
+2012,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE
+2012,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE
+2012,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE
+2012,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE
+2012,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE
+2012,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE
+2012,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE
+2012,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE
+2012,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE
+2012,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE
+2012,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE
+2012,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE
+2012,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE
+2012,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE
+2012,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE
+2012,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE
+2012,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE
+2012,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE
+2012,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE
+2012,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE
+2012,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE
+2012,NYG,GIANTS,New York Giants,New York,Giants,TRUE
+2012,NYJ,JETS,New York Jets,New York,Jets,TRUE
+2012,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE
+2012,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE
+2012,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE
+2012,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE
+2012,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE
+2012,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE
+2012,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE
+2013,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE
+2013,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE
+2013,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE
+2013,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE
+2013,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE
+2013,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE
+2013,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE
+2013,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE
+2013,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE
+2013,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE
+2013,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE
+2013,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE
+2013,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE
+2013,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE
+2013,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE
+2013,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE
+2013,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE
+2013,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE
+2013,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE
+2013,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE
+2013,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE
+2013,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE
+2013,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE
+2013,NYG,GIANTS,New York Giants,New York,Giants,TRUE
+2013,NYJ,JETS,New York Jets,New York,Jets,TRUE
+2013,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE
+2013,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE
+2013,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE
+2013,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE
+2013,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE
+2013,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE
+2013,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE
+2014,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE
+2014,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE
+2014,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE
+2014,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE
+2014,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE
+2014,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE
+2014,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE
+2014,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE
+2014,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE
+2014,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE
+2014,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE
+2014,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE
+2014,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE
+2014,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE
+2014,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE
+2014,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE
+2014,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE
+2014,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE
+2014,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE
+2014,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE
+2014,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE
+2014,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE
+2014,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE
+2014,NYG,GIANTS,New York Giants,New York,Giants,TRUE
+2014,NYJ,JETS,New York Jets,New York,Jets,TRUE
+2014,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE
+2014,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE
+2014,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE
+2014,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE
+2014,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE
+2014,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE
+2014,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE
+2015,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE
+2015,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE
+2015,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE
+2015,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE
+2015,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE
+2015,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE
+2015,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE
+2015,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE
+2015,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE
+2015,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE
+2015,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE
+2015,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE
+2015,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE
+2015,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE
+2015,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE
+2015,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE
+2015,LA,RAMS,St. Louis Rams,St. Louis,Rams,TRUE
+2015,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE
+2015,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE
+2015,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE
+2015,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE
+2015,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE
+2015,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE
+2015,NYG,GIANTS,New York Giants,New York,Giants,TRUE
+2015,NYJ,JETS,New York Jets,New York,Jets,TRUE
+2015,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE
+2015,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE
+2015,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE
+2015,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE
+2015,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE
+2015,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE
+2015,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE
+2016,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE
+2016,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE
+2016,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE
+2016,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE
+2016,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE
+2016,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE
+2016,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE
+2016,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE
+2016,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE
+2016,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE
+2016,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE
+2016,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE
+2016,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE
+2016,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE
+2016,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE
+2016,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE
+2016,LA,RAMS,Los Angeles Rams,Los Angeles,Rams,TRUE
+2016,LAC,CHARGERS,San Diego Chargers,San Diego,Chargers,TRUE
+2016,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE
+2016,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE
+2016,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE
+2016,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE
+2016,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE
+2016,NYG,GIANTS,New York Giants,New York,Giants,TRUE
+2016,NYJ,JETS,New York Jets,New York,Jets,TRUE
+2016,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE
+2016,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE
+2016,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE
+2016,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE
+2016,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE
+2016,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE
+2016,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE
+2017,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE
+2017,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE
+2017,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE
+2017,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE
+2017,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE
+2017,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE
+2017,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE
+2017,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE
+2017,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE
+2017,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE
+2017,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE
+2017,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE
+2017,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE
+2017,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE
+2017,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE
+2017,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE
+2017,LA,RAMS,Los Angeles Rams,Los Angeles,Rams,TRUE
+2017,LAC,CHARGERS,Los Angeles Chargers,Los Angeles,Chargers,TRUE
+2017,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE
+2017,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE
+2017,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE
+2017,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE
+2017,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE
+2017,NYG,GIANTS,New York Giants,New York,Giants,TRUE
+2017,NYJ,JETS,New York Jets,New York,Jets,TRUE
+2017,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE
+2017,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE
+2017,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE
+2017,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE
+2017,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE
+2017,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE
+2017,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE
+2018,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE
+2018,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE
+2018,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE
+2018,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE
+2018,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE
+2018,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE
+2018,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE
+2018,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE
+2018,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE
+2018,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE
+2018,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE
+2018,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE
+2018,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE
+2018,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE
+2018,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE
+2018,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE
+2018,LA,RAMS,Los Angeles Rams,Los Angeles,Rams,TRUE
+2018,LAC,CHARGERS,Los Angeles Chargers,Los Angeles,Chargers,TRUE
+2018,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE
+2018,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE
+2018,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE
+2018,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE
+2018,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE
+2018,NYG,GIANTS,New York Giants,New York,Giants,TRUE
+2018,NYJ,JETS,New York Jets,New York,Jets,TRUE
+2018,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE
+2018,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE
+2018,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE
+2018,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE
+2018,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE
+2018,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE
+2018,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE
+2019,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE
+2019,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE
+2019,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE
+2019,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE
+2019,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE
+2019,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE
+2019,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE
+2019,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE
+2019,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE
+2019,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE
+2019,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE
+2019,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE
+2019,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE
+2019,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE
+2019,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE
+2019,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE
+2019,LA,RAMS,Los Angeles Rams,Los Angeles,Rams,TRUE
+2019,LAC,CHARGERS,Los Angeles Chargers,Los Angeles,Chargers,TRUE
+2019,LV,RAIDERS,Oakland Raiders,Oakland,Raiders,TRUE
+2019,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE
+2019,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE
+2019,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE
+2019,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE
+2019,NYG,GIANTS,New York Giants,New York,Giants,TRUE
+2019,NYJ,JETS,New York Jets,New York,Jets,TRUE
+2019,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE
+2019,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE
+2019,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE
+2019,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE
+2019,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE
+2019,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE
+2019,WAS,WASHINGTON,Washington Redskins,Washington,Redskins,TRUE
+2020,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE
+2020,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE
+2020,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE
+2020,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE
+2020,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE
+2020,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE
+2020,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE
+2020,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE
+2020,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE
+2020,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE
+2020,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE
+2020,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE
+2020,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE
+2020,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE
+2020,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE
+2020,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE
+2020,LA,RAMS,Los Angeles Rams,Los Angeles,Rams,TRUE
+2020,LAC,CHARGERS,Los Angeles Chargers,Los Angeles,Chargers,TRUE
+2020,LV,RAIDERS,Las Vegas Raiders,Las Vegas,Raiders,TRUE
+2020,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE
+2020,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE
+2020,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE
+2020,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE
+2020,NYG,GIANTS,New York Giants,New York,Giants,TRUE
+2020,NYJ,JETS,New York Jets,New York,Jets,TRUE
+2020,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE
+2020,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE
+2020,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE
+2020,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE
+2020,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE
+2020,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE
+2020,WAS,WASHINGTON,Washington Football Team,Washington,Football Team,TRUE
+2021,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE
+2021,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE
+2021,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE
+2021,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE
+2021,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE
+2021,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE
+2021,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE
+2021,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE
+2021,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE
+2021,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE
+2021,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE
+2021,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE
+2021,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE
+2021,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE
+2021,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE
+2021,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE
+2021,LA,RAMS,Los Angeles Rams,Los Angeles,Rams,TRUE
+2021,LAC,CHARGERS,Los Angeles Chargers,Los Angeles,Chargers,TRUE
+2021,LV,RAIDERS,Las Vegas Raiders,Las Vegas,Raiders,TRUE
+2021,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE
+2021,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE
+2021,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE
+2021,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE
+2021,NYG,GIANTS,New York Giants,New York,Giants,TRUE
+2021,NYJ,JETS,New York Jets,New York,Jets,TRUE
+2021,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE
+2021,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE
+2021,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE
+2021,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE
+2021,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE
+2021,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE
+2021,WAS,WASHINGTON,Washington Football Team,Washington,Football Team,TRUE
+2022,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE
+2022,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE
+2022,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE
+2022,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE
+2022,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE
+2022,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE
+2022,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE
+2022,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE
+2022,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE
+2022,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE
+2022,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE
+2022,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE
+2022,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE
+2022,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE
+2022,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE
+2022,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE
+2022,LA,RAMS,Los Angeles Rams,Los Angeles,Rams,TRUE
+2022,LAC,CHARGERS,Los Angeles Chargers,Los Angeles,Chargers,TRUE
+2022,LV,RAIDERS,Las Vegas Raiders,Las Vegas,Raiders,TRUE
+2022,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE
+2022,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE
+2022,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE
+2022,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE
+2022,NYG,GIANTS,New York Giants,New York,Giants,TRUE
+2022,NYJ,JETS,New York Jets,New York,Jets,TRUE
+2022,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE
+2022,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE
+2022,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE
+2022,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE
+2022,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE
+2022,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE
+2022,WAS,WASHINGTON,Washington Commanders,Washington,Commanders,TRUE
+2023,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE
+2023,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE
+2023,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE
+2023,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE
+2023,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE
+2023,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE
+2023,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE
+2023,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE
+2023,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE
+2023,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE
+2023,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE
+2023,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE
+2023,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE
+2023,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE
+2023,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE
+2023,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE
+2023,LA,RAMS,Los Angeles Rams,Los Angeles,Rams,TRUE
+2023,LAC,CHARGERS,Los Angeles Chargers,Los Angeles,Chargers,TRUE
+2023,LV,RAIDERS,Las Vegas Raiders,Las Vegas,Raiders,TRUE
+2023,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE
+2023,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE
+2023,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE
+2023,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE
+2023,NYG,GIANTS,New York Giants,New York,Giants,TRUE
+2023,NYJ,JETS,New York Jets,New York,Jets,TRUE
+2023,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE
+2023,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE
+2023,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE
+2023,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE
+2023,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE
+2023,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE
+2023,WAS,WASHINGTON,Washington Commanders,Washington,Commanders,TRUE
+2024,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE
+2024,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE
+2024,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE
+2024,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE
+2024,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE
+2024,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE
+2024,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE
+2024,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE
+2024,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE
+2024,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE
+2024,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE
+2024,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE
+2024,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE
+2024,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE
+2024,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE
+2024,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE
+2024,LA,RAMS,Los Angeles Rams,Los Angeles,Rams,TRUE
+2024,LAC,CHARGERS,Los Angeles Chargers,Los Angeles,Chargers,TRUE
+2024,LV,RAIDERS,Las Vegas Raiders,Las Vegas,Raiders,TRUE
+2024,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE
+2024,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE
+2024,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE
+2024,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE
+2024,NYG,GIANTS,New York Giants,New York,Giants,TRUE
+2024,NYJ,JETS,New York Jets,New York,Jets,TRUE
+2024,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE
+2024,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE
+2024,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE
+2024,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE
+2024,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE
+2024,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE
+2024,WAS,WASHINGTON,Washington Commanders,Washington,Commanders,TRUE
+2025,ARI,CARDINALS,Arizona Cardinals,Arizona,Cardinals,TRUE
+2025,ATL,FALCONS,Atlanta Falcons,Atlanta,Falcons,TRUE
+2025,BAL,RAVENS,Baltimore Ravens,Baltimore,Ravens,TRUE
+2025,BUF,BILLS,Buffalo Bills,Buffalo,Bills,TRUE
+2025,CAR,PANTHERS,Carolina Panthers,Carolina,Panthers,TRUE
+2025,CHI,BEARS,Chicago Bears,Chicago,Bears,TRUE
+2025,CIN,BENGALS,Cincinnati Bengals,Cincinnati,Bengals,TRUE
+2025,CLE,BROWNS,Cleveland Browns,Cleveland,Browns,TRUE
+2025,DAL,COWBOYS,Dallas Cowboys,Dallas,Cowboys,TRUE
+2025,DEN,BRONCOS,Denver Broncos,Denver,Broncos,TRUE
+2025,DET,LIONS,Detroit Lions,Detroit,Lions,TRUE
+2025,GB,PACKERS,Green Bay Packers,Green Bay,Packers,TRUE
+2025,HOU,TEXANS,Houston Texans,Houston,Texans,TRUE
+2025,IND,COLTS,Indianapolis Colts,Indianapolis,Colts,TRUE
+2025,JAX,JAGUARS,Jacksonville Jaguars,Jacksonville,Jaguars,TRUE
+2025,KC,CHIEFS,Kansas City Chiefs,Kansas City,Chiefs,TRUE
+2025,LA,RAMS,Los Angeles Rams,Los Angeles,Rams,TRUE
+2025,LAC,CHARGERS,Los Angeles Chargers,Los Angeles,Chargers,TRUE
+2025,LV,RAIDERS,Las Vegas Raiders,Las Vegas,Raiders,TRUE
+2025,MIA,DOLPHINS,Miami Dolphins,Miami,Dolphins,TRUE
+2025,MIN,VIKINGS,Minnesota Vikings,Minnesota,Vikings,TRUE
+2025,NE,PATRIOTS,New England Patriots,New England,Patriots,TRUE
+2025,NO,SAINTS,New Orleans Saints,New Orleans,Saints,TRUE
+2025,NYG,GIANTS,New York Giants,New York,Giants,TRUE
+2025,NYJ,JETS,New York Jets,New York,Jets,TRUE
+2025,PHI,EAGLES,Philadelphia Eagles,Philadelphia,Eagles,TRUE
+2025,PIT,STEELERS,Pittsburgh Steelers,Pittsburgh,Steelers,TRUE
+2025,SEA,SEAHAWKS,Seattle Seahawks,Seattle,Seahawks,TRUE
+2025,SF,49ERS,San Francisco 49ers,San Francisco,49ers,TRUE
+2025,TB,BUCCANEERS,Tampa Bay Buccaneers,Tampa Bay,Buccaneers,TRUE
+2025,TEN,TITANS,Tennessee Titans,Tennessee,Titans,TRUE
+2025,WAS,WASHINGTON,Washington Commanders,Washington,Commanders,TRUE
